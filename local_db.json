@@ -1,0 +1,1880 @@
+{
+    "users": [
+        {
+            "email": "testuser@example.com",
+            "password": "$2b$12$oSjZV1UcKDnKt1G2wl1lze6prJB/p3jPu5.P/xdQ3/TgoULnv2jXi",
+            "name": "Test User",
+            "preferences": {
+                "default_budget": 20000.0,
+                "preferred_style": "Balanced",
+                "preferred_transport": "No preference",
+                "food_preference": "No preference",
+                "interests": [
+                    "Historical",
+                    "Food"
+                ]
+            },
+            "_id": "6a88712faae3f57afc1915f6"
+        },
+        {
+            "email": "checkuser@example.com",
+            "password": "$2b$12$KEwfwBLj0FRlGmqnr7f8PeQ12YfSjrlRU.vT0vtEfz7u1IfxB6SXe",
+            "name": "Test User",
+            "preferences": {
+                "default_budget": 20000.0,
+                "preferred_style": "Balanced",
+                "preferred_transport": "No preference",
+                "food_preference": "No preference",
+                "interests": [
+                    "Historical",
+                    "Food"
+                ]
+            },
+            "_id": "6a88797d4621a6a657c0b49d"
+        },
+        {
+            "email": "janani@gmail.com",
+            "password": "$2b$12$pL/cjcdqjYlfYWpXx9GQlOybqIXXTbCPm9GsSLPGxVihwivFs2LwW",
+            "name": "janani",
+            "preferences": {
+                "default_budget": 20000.0,
+                "preferred_style": "Balanced",
+                "preferred_transport": "No preference",
+                "food_preference": "No preference",
+                "interests": [
+                    "Historical",
+                    "Food"
+                ]
+            },
+            "_id": "6a997b60942162a029850e8e"
+        },
+        {
+            "email": "test@example.com",
+            "password": "$2b$12$Avj/stk3olifOkGTx2CWvum3Uc1t8bSAbI0RwrvLOhwWyd9elwLbK",
+            "name": "Test User",
+            "preferences": {
+                "default_budget": 20000.0,
+                "preferred_style": "Balanced",
+                "preferred_transport": "No preference",
+                "food_preference": "No preference",
+                "interests": [
+                    "Historical",
+                    "Food"
+                ]
+            },
+            "_id": "6ab8a9d5bc3c307a0d8b3d11",
+            "id": "6ab8a9d5bc3c307a0d8b3d11"
+        },
+        {
+            "email": "traveler@example.com",
+            "password": "$2b$12$nAhIe8qKUZmgIQ/w9YcGB.Xeji/.tZfjk/EwLd2DnjptfINyNNfFu",
+            "name": "Test Traveler",
+            "preferences": {
+                "default_budget": 20000.0,
+                "preferred_style": "Balanced",
+                "preferred_transport": "No preference",
+                "food_preference": "No preference",
+                "interests": [
+                    "Historical",
+                    "Food"
+                ]
+            },
+            "_id": "6abe58ff0a6c49a7fc51ab45",
+            "id": "6abe58ff0a6c49a7fc51ab45"
+        },
+        {
+            "email": "traveler_test@example.com",
+            "password": "$2b$12$Mq7D8sRCPvmQuHZst1KcQ.cyFARssl0Mb.1AhRcRYBl/n.dURhWwq",
+            "name": "Test Traveler",
+            "preferences": {
+                "default_budget": 20000.0,
+                "preferred_style": "Balanced",
+                "preferred_transport": "No preference",
+                "food_preference": "No preference",
+                "interests": [
+                    "Historical",
+                    "Food"
+                ]
+            },
+            "_id": "6abe59860a6c49a7fc51ab46",
+            "id": "6abe59860a6c49a7fc51ab46"
+        }
+    ],
+    "trips": [
+        {
+            "start_location": "Vijayawada",
+            "destination": "Goa",
+            "budget": 25000,
+            "start_date": "2026-09-15",
+            "end_date": "2026-09-18",
+            "travelers": 2,
+            "interests": [
+                "Beaches",
+                "Nature",
+                "Food"
+            ],
+            "style": "Balanced",
+            "transport_pref": "No preference",
+            "hotel_pref": "No preference",
+            "num_days": 4,
+            "extracted_interests": [
+                "Beaches",
+                "Nature",
+                "Food"
+            ],
+            "transport_options": [],
+            "selected_transport": {
+                "mode": "Train",
+                "name": "Express Superfast (Vijayawada to Goa)",
+                "cost_per_person": 550,
+                "duration_hours": 7.5,
+                "departure": "07:30 AM",
+                "arrival": "03:00 PM",
+                "suitability": "Economical and comfortable daytime journey.",
+                "comfort_tier": "Standard"
+            },
+            "hotel_options": [],
+            "selected_hotel": {
+                "id": "goa_standard_1",
+                "name": "Calangute Beach Holiday Resort",
+                "style": "Standard",
+                "price_per_night": 3200,
+                "rating": 4.2,
+                "distance_km": 0.3,
+                "description": "Family hotel steps from beach.",
+                "trade_off": "Great beach proximity.",
+                "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Calangute+Beach+Holiday+Resort%2C+Goa"
+            },
+            "attractions": [],
+            "weather_forecast": [],
+            "itinerary": [
+                {
+                    "day": 1,
+                    "day_label": "Day 1 \u2013 September 15, 2026",
+                    "theme": "Arrival, Historic Orientation & Central Landmarks",
+                    "date": "2026-09-15",
+                    "date_formatted": "September 15, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Authentic Regional Breakfast at Central Cafe in Goa",
+                            "details": "Enjoy hot authentic breakfast dishes and freshly brewed tea/coffee.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Authentic+Regional+Breakfast+at+Central+Cafe%2C+Goa"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Goa Historic Heritage Trail (Zone 1)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Goa. (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Goa+Historic+Heritage+Trail+%28Zone+1%29%2C+Goa"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Traditional Thali Meal at Top-Rated Regional Diner (Goa)",
+                            "details": "Authentic multi-course meal served with local spices and rice.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Thali+Meal+at+Top-Rated+Regional+Diner%2C+Goa"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Goa Panoramic Viewpoint (Spot #1)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Goa. (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Goa+Panoramic+Viewpoint+%28Spot+%231%29%2C+Goa"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Goa Heritage Promenade (Day 1)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Goa"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Welcome Dinner at Historic City Bistro",
+                            "details": "Celebratory arrival dinner featuring popular local delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Welcome+Dinner+at+Historic+City+Bistro%2C+Goa"
+                        }
+                    ]
+                },
+                {
+                    "day": 2,
+                    "day_label": "Day 2 \u2013 September 16, 2026",
+                    "theme": "Cultural Heritage, Architectural Wonders & Museums",
+                    "date": "2026-09-16",
+                    "date_formatted": "September 16, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Fresh Morning Pastries & Artisanal Tea at Heritage Bakery in Goa",
+                            "details": "Savor fresh morning bakes, cardamom tea, and seasonal fruit.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fresh+Morning+Pastries+%26+Artisanal+Tea+at+Heritage+Bakery%2C+Goa"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Goa Historic Heritage Trail (Zone 2)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Goa. (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Goa+Historic+Heritage+Trail+%28Zone+2%29%2C+Goa"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Heritage Cuisine & Regional Specialties at Old Town Cafe (Goa)",
+                            "details": "Sample signature traditional recipes prepared with fresh ingredients.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Heritage+Cuisine+%26+Regional+Specialties+at+Old+Town+Cafe%2C+Goa"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Goa Panoramic Viewpoint (Spot #2)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Goa. (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Goa+Panoramic+Viewpoint+%28Spot+%232%29%2C+Goa"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Goa Heritage Promenade (Day 2)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Goa"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Fine Dining Regional Experience at Heritage Mansion",
+                            "details": "Multi-course dinner inside an authentic heritage courtyard.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fine+Dining+Regional+Experience+at+Heritage+Mansion%2C+Goa"
+                        }
+                    ]
+                },
+                {
+                    "day": 3,
+                    "day_label": "Day 3 \u2013 September 17, 2026",
+                    "theme": "Nature Sanctuaries, Scenic Parks & Lake Promenade",
+                    "date": "2026-09-17",
+                    "date_formatted": "September 17, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Traditional Breakfast Buffet at Landmark Diner in Goa",
+                            "details": "Hearty regional breakfast featuring local specialty dishes.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Breakfast+Buffet+at+Landmark+Diner%2C+Goa"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Goa Historic Heritage Trail (Zone 3)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Goa. (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Goa+Historic+Heritage+Trail+%28Zone+3%29%2C+Goa"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Garden Bistro Organic Lunch with Scenic Views (Goa)",
+                            "details": "Enjoy light gourmet lunch amidst tranquil garden surroundings.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Garden+Bistro+Organic+Lunch+with+Scenic+Views%2C+Goa"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Goa Panoramic Viewpoint (Spot #3)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Goa. (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Goa+Panoramic+Viewpoint+%28Spot+%233%29%2C+Goa"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Goa Heritage Promenade (Day 3)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Goa"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Candlelight Dinner with Skyline/Mountain Views",
+                            "details": "Romantic evening dining with panoramic views over the city.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Candlelight+Dinner+with+Skyline%2FMountain+Views%2C+Goa"
+                        }
+                    ]
+                },
+                {
+                    "day": 4,
+                    "day_label": "Day 4 \u2013 September 18, 2026",
+                    "theme": "Local Artisan Bazaars, Handicrafts & Culinary Discovery",
+                    "date": "2026-09-18",
+                    "date_formatted": "September 18, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Highland Spiced Tea & Fresh Local Fritters in Goa",
+                            "details": "Hot spiced tea served with freshly fried local breakfast fritters.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Highland+Spiced+Tea+%26+Fresh+Local+Fritters%2C+Goa"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Goa Historic Heritage Trail (Zone 4)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Goa. (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Goa+Historic+Heritage+Trail+%28Zone+4%29%2C+Goa"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Famous Regional Biryani & Curries Feast (Goa)",
+                            "details": "Savor aromatic spiced rice and traditional slow-cooked gravies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Famous+Regional+Biryani+%26+Curries+Feast%2C+Goa"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Goa Panoramic Viewpoint (Spot #4)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Goa. (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Goa+Panoramic+Viewpoint+%28Spot+%234%29%2C+Goa"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Goa Heritage Promenade (Day 4)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Goa"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Traditional Charcoal Grill & Tandoori Specialties",
+                            "details": "Flavorful grilled skewers, breads, and spiced rich gravies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Charcoal+Grill+%26+Tandoori+Specialties%2C+Goa"
+                        }
+                    ]
+                }
+            ],
+            "budget_breakdown": {
+                "transportation": 1100,
+                "hotel": 9600,
+                "food": 4000,
+                "local_transport": 2800,
+                "activities": 0,
+                "miscellaneous": 1000,
+                "total": 18500,
+                "cost_per_person": 9250,
+                "remaining": 6500,
+                "percentage_spent": 74,
+                "is_estimated": true
+            },
+            "logs": [
+                "Orchestrator: Initializing planning workspace.",
+                "Orchestrator: Parsing request goals and travel constraints.",
+                "Orchestrator: Extracted trip parameters (4 days, 2026-09-15 to 2026-09-18, 2 travelers, budget \u20b925000.0).",
+                "Parallel Agent Orchestrator: Executing Transport, Hotel, Places, and Weather agents in parallel.",
+                "Transport Agent: Analyzing route options from Vijayawada to Goa.",
+                "Transport Agent: Selected Train (Express Superfast (Vijayawada to Goa)) at \u20b9550/person.",
+                "Hotel Agent: Querying accommodation options in Goa.",
+                "Hotel Agent: Selected Calangute Beach Holiday Resort (Standard) at \u20b93200/night. Reason: Great beach proximity.",
+                "Places Agent: Fetching attraction guides and RAG documents.",
+                "Places Agent: Retrieved RAG context about Goa.",
+                "Places Agent: Selected 4 top-tier attractions matching interests.",
+                "Weather Agent: Fetching live weather forecast for Goa.",
+                "Weather Agent: Live weather API unavailable/timed out, using climate defaults.",
+                "Parallel Agent Orchestrator: All regional & constraint agents completed execution.",
+                "Budget Agent: Calculating final estimated cost breakdown.",
+                "Budget Agent: Estimated total cost at \u20b918500 (\u20b99250.0 per person).",
+                "Itinerary Agent: Structuring date-accurate, non-repetitive day-by-day itinerary.",
+                "Itinerary Agent: Generated 4 unique, non-repetitive daily schedules for Goa from 2026-09-15 to 2026-09-18.",
+                "Validation Agent: Performing safety and budget verification audits.",
+                "Validation Agent: AUDIT PASSED. Core itinerary conforms to safety and timing requirements."
+            ],
+            "validation_logs": [],
+            "is_valid": true,
+            "retry_count": 0,
+            "error_message": null,
+            "suggested_adjustments": null,
+            "user_id": "6ab8a9d5bc3c307a0d8b3d11",
+            "created_at": "2026-09-27T05:31:20.766391",
+            "status": "saved",
+            "_id": "6ab8aa28bc3c307a0d8b3d12",
+            "id": "6ab8aa28bc3c307a0d8b3d12",
+            "svg_map": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 140\" width=\"100%\" height=\"140\">\n      <defs>\n        <linearGradient id=\"routeGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n          <stop offset=\"0%\" stop-color=\"#d9261c\" />\n          <stop offset=\"100%\" stop-color=\"#ef4444\" />\n        </linearGradient>\n      </defs>\n      <rect width=\"100%\" height=\"100%\" rx=\"16\" fill=\"#fee2e2\" stroke=\"#d9261c\" stroke-width=\"2\"/>\n      <path d=\"M 80 70 Q 400 15 720 70\" fill=\"none\" stroke=\"url(#routeGrad)\" stroke-width=\"4\" stroke-dasharray=\"6 4\"/>\n      <circle cx=\"80\" cy=\"70\" r=\"10\" fill=\"#d9261c\"/>\n      <circle cx=\"720\" cy=\"70\" r=\"10\" fill=\"#d9261c\"/>\n      <text x=\"80\" y=\"105\" font-family=\"sans-serif\" font-weight=\"900\" font-size=\"13\" fill=\"#000\" text-anchor=\"middle\">Vijayawada</text>\n      <text x=\"720\" y=\"105\" font-family=\"sans-serif\" font-weight=\"900\" font-size=\"13\" fill=\"#000\" text-anchor=\"middle\">Goa</text>\n      <text x=\"400\" y=\"40\" font-family=\"sans-serif\" font-weight=\"900\" font-size=\"12\" fill=\"#d9261c\" text-anchor=\"middle\">\ud83d\udccd 4-Day Visual Route Map (svgAgent)</text>\n    </svg>"
+        },
+        {
+            "start_location": "",
+            "destination": "Andhra Pradesh (Tirupati)",
+            "budget": 25000,
+            "start_date": "2026-11-15",
+            "end_date": "2026-11-19",
+            "travelers": 4,
+            "interests": [
+                "Beaches",
+                "Nature",
+                "Food",
+                "Family"
+            ],
+            "style": "Cultural",
+            "transport_pref": "No preference",
+            "hotel_pref": "No preference",
+            "num_days": 5,
+            "extracted_interests": [
+                "Beaches",
+                "Nature",
+                "Food",
+                "Family"
+            ],
+            "transport_options": [],
+            "selected_transport": {
+                "mode": "Train",
+                "name": "Express Superfast ( to Andhra Pradesh (Tirupati))",
+                "cost_per_person": 550,
+                "duration_hours": 7.5,
+                "departure": "07:30 AM",
+                "arrival": "03:00 PM",
+                "suitability": "Economical and comfortable daytime journey.",
+                "comfort_tier": "Standard"
+            },
+            "hotel_options": [],
+            "selected_hotel": {
+                "id": "andhra pradesh (tirupati)_standard_1",
+                "name": "Andhra Pradesh (Tirupati) Grand Residency",
+                "style": "Standard",
+                "price_per_night": 3200,
+                "rating": 4.4,
+                "distance_km": 1.1,
+                "description": "Comfortable mid-range hotel with modern amenities and complimentary breakfast.",
+                "trade_off": "Balanced price and comfort.",
+                "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grand+Hotel%2C+Andhra+Pradesh+%28Tirupati%29"
+            },
+            "attractions": [],
+            "weather_forecast": [],
+            "itinerary": [
+                {
+                    "day": 1,
+                    "day_label": "Day 1 \u2013 November 15, 2026",
+                    "theme": "Arrival, Historic Orientation & Central Landmarks",
+                    "date": "2026-11-15",
+                    "date_formatted": "November 15, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Authentic Regional Breakfast at Central Cafe in Andhra Pradesh (Tirupati)",
+                            "details": "Enjoy hot authentic breakfast dishes and freshly brewed tea/coffee.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Authentic+Regional+Breakfast+at+Central+Cafe%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Andhra Pradesh (Tirupati) Historic Heritage Trail (Zone 1)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Andhra Pradesh (Tirupati). (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andhra+Pradesh+%28Tirupati%29+Historic+Heritage+Trail+%28Zone+1%29%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Traditional Thali Meal at Top-Rated Regional Diner (Andhra Pradesh (Tirupati))",
+                            "details": "Authentic multi-course meal served with local spices and rice.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Thali+Meal+at+Top-Rated+Regional+Diner%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Andhra Pradesh (Tirupati) Panoramic Viewpoint (Spot #1)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Andhra Pradesh (Tirupati). (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andhra+Pradesh+%28Tirupati%29+Panoramic+Viewpoint+%28Spot+%231%29%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Andhra Pradesh (Tirupati) Heritage Promenade (Day 1)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Welcome Dinner at Historic City Bistro",
+                            "details": "Celebratory arrival dinner featuring popular local delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Welcome+Dinner+at+Historic+City+Bistro%2C+Andhra+Pradesh+%28Tirupati%29"
+                        }
+                    ]
+                },
+                {
+                    "day": 2,
+                    "day_label": "Day 2 \u2013 November 16, 2026",
+                    "theme": "Cultural Heritage, Architectural Wonders & Museums",
+                    "date": "2026-11-16",
+                    "date_formatted": "November 16, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Fresh Morning Pastries & Artisanal Tea at Heritage Bakery in Andhra Pradesh (Tirupati)",
+                            "details": "Savor fresh morning bakes, cardamom tea, and seasonal fruit.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fresh+Morning+Pastries+%26+Artisanal+Tea+at+Heritage+Bakery%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Andhra Pradesh (Tirupati) Historic Heritage Trail (Zone 2)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Andhra Pradesh (Tirupati). (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andhra+Pradesh+%28Tirupati%29+Historic+Heritage+Trail+%28Zone+2%29%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Heritage Cuisine & Regional Specialties at Old Town Cafe (Andhra Pradesh (Tirupati))",
+                            "details": "Sample signature traditional recipes prepared with fresh ingredients.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Heritage+Cuisine+%26+Regional+Specialties+at+Old+Town+Cafe%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Andhra Pradesh (Tirupati) Panoramic Viewpoint (Spot #2)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Andhra Pradesh (Tirupati). (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andhra+Pradesh+%28Tirupati%29+Panoramic+Viewpoint+%28Spot+%232%29%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Andhra Pradesh (Tirupati) Heritage Promenade (Day 2)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Fine Dining Regional Experience at Heritage Mansion",
+                            "details": "Multi-course dinner inside an authentic heritage courtyard.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fine+Dining+Regional+Experience+at+Heritage+Mansion%2C+Andhra+Pradesh+%28Tirupati%29"
+                        }
+                    ]
+                },
+                {
+                    "day": 3,
+                    "day_label": "Day 3 \u2013 November 17, 2026",
+                    "theme": "Nature Sanctuaries, Scenic Parks & Lake Promenade",
+                    "date": "2026-11-17",
+                    "date_formatted": "November 17, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Traditional Breakfast Buffet at Landmark Diner in Andhra Pradesh (Tirupati)",
+                            "details": "Hearty regional breakfast featuring local specialty dishes.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Breakfast+Buffet+at+Landmark+Diner%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Andhra Pradesh (Tirupati) Historic Heritage Trail (Zone 3)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Andhra Pradesh (Tirupati). (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andhra+Pradesh+%28Tirupati%29+Historic+Heritage+Trail+%28Zone+3%29%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Garden Bistro Organic Lunch with Scenic Views (Andhra Pradesh (Tirupati))",
+                            "details": "Enjoy light gourmet lunch amidst tranquil garden surroundings.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Garden+Bistro+Organic+Lunch+with+Scenic+Views%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Andhra Pradesh (Tirupati) Panoramic Viewpoint (Spot #3)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Andhra Pradesh (Tirupati). (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andhra+Pradesh+%28Tirupati%29+Panoramic+Viewpoint+%28Spot+%233%29%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Andhra Pradesh (Tirupati) Heritage Promenade (Day 3)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Candlelight Dinner with Skyline/Mountain Views",
+                            "details": "Romantic evening dining with panoramic views over the city.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Candlelight+Dinner+with+Skyline%2FMountain+Views%2C+Andhra+Pradesh+%28Tirupati%29"
+                        }
+                    ]
+                },
+                {
+                    "day": 4,
+                    "day_label": "Day 4 \u2013 November 18, 2026",
+                    "theme": "Local Artisan Bazaars, Handicrafts & Culinary Discovery",
+                    "date": "2026-11-18",
+                    "date_formatted": "November 18, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Highland Spiced Tea & Fresh Local Fritters in Andhra Pradesh (Tirupati)",
+                            "details": "Hot spiced tea served with freshly fried local breakfast fritters.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Highland+Spiced+Tea+%26+Fresh+Local+Fritters%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Andhra Pradesh (Tirupati) Historic Heritage Trail (Zone 4)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Andhra Pradesh (Tirupati). (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andhra+Pradesh+%28Tirupati%29+Historic+Heritage+Trail+%28Zone+4%29%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Famous Regional Biryani & Curries Feast (Andhra Pradesh (Tirupati))",
+                            "details": "Savor aromatic spiced rice and traditional slow-cooked gravies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Famous+Regional+Biryani+%26+Curries+Feast%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Andhra Pradesh (Tirupati) Panoramic Viewpoint (Spot #4)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Andhra Pradesh (Tirupati). (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andhra+Pradesh+%28Tirupati%29+Panoramic+Viewpoint+%28Spot+%234%29%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Andhra Pradesh (Tirupati) Heritage Promenade (Day 4)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Traditional Charcoal Grill & Tandoori Specialties",
+                            "details": "Flavorful grilled skewers, breads, and spiced rich gravies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Charcoal+Grill+%26+Tandoori+Specialties%2C+Andhra+Pradesh+%28Tirupati%29"
+                        }
+                    ]
+                },
+                {
+                    "day": 5,
+                    "day_label": "Day 5 \u2013 November 19, 2026",
+                    "theme": "Panoramic Viewpoints, High-Range Trails & Sunset Spots",
+                    "date": "2026-11-19",
+                    "date_formatted": "November 19, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Organic Farm-Fresh Breakfast & Herbal Infusion in Andhra Pradesh (Tirupati)",
+                            "details": "Healthy breakfast with organic local produce and herbal infusions.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Organic+Farm-Fresh+Breakfast+%26+Herbal+Infusion%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Andhra Pradesh (Tirupati) Historic Heritage Trail (Zone 5)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Andhra Pradesh (Tirupati). (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andhra+Pradesh+%28Tirupati%29+Historic+Heritage+Trail+%28Zone+5%29%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Hillside Bistro Lunch with Panorama Views (Andhra Pradesh (Tirupati))",
+                            "details": "Dine with spectacular panoramic hilltop views across the valley.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hillside+Bistro+Lunch+with+Panorama+Views%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Andhra Pradesh (Tirupati) Panoramic Viewpoint (Spot #5)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Andhra Pradesh (Tirupati). (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andhra+Pradesh+%28Tirupati%29+Panoramic+Viewpoint+%28Spot+%235%29%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Andhra Pradesh (Tirupati) Heritage Promenade (Day 5)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Andhra+Pradesh+%28Tirupati%29"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Cultural Performance & Traditional Buffet Dinner",
+                            "details": "Watch live traditional music/dance followed by a grand dinner.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cultural+Performance+%26+Traditional+Buffet+Dinner%2C+Andhra+Pradesh+%28Tirupati%29"
+                        }
+                    ]
+                }
+            ],
+            "budget_breakdown": {
+                "transportation": 2200,
+                "hotel": 25600,
+                "food": 10000,
+                "local_transport": 7000,
+                "activities": 0,
+                "miscellaneous": 2000,
+                "total": 46800,
+                "cost_per_person": 11700,
+                "remaining": -21800,
+                "percentage_spent": 187.2,
+                "is_estimated": true
+            },
+            "logs": [
+                "Orchestrator: Initializing planning workspace.",
+                "Orchestrator: Parsing request goals and travel constraints.",
+                "Orchestrator: Extracted trip parameters (5 days, 2026-11-15 to 2026-11-19, 4 travelers, budget \u20b925000.0).",
+                "Parallel Agent Orchestrator: Executing Transport, Hotel, Places, and Weather agents in parallel.",
+                "Transport Agent: Analyzing route options from  to Andhra Pradesh (Tirupati).",
+                "Transport Agent: Selected Train (Express Superfast ( to Andhra Pradesh (Tirupati))) at \u20b9550/person.",
+                "Hotel Agent: Querying accommodation options in Andhra Pradesh (Tirupati).",
+                "Hotel Agent: Selected Andhra Pradesh (Tirupati) Grand Residency (Standard) at \u20b93200/night. Reason: Balanced price and comfort.",
+                "Places Agent: Fetching attraction guides and RAG documents.",
+                "Places Agent: Retrieved RAG context about Andhra Pradesh (Tirupati).",
+                "Places Agent: Selected 6 top-tier attractions matching interests.",
+                "Weather Agent: Fetching live weather forecast for Andhra Pradesh (Tirupati).",
+                "Weather Agent: Live weather API unavailable/timed out, using climate defaults.",
+                "Parallel Agent Orchestrator: All regional & constraint agents completed execution.",
+                "Budget Agent: Calculating final estimated cost breakdown.",
+                "Budget Agent: Estimated total cost at \u20b946800 (\u20b911700.0 per person).",
+                "Itinerary Agent: Structuring date-accurate, non-repetitive day-by-day itinerary.",
+                "Itinerary Agent: Generated 5 unique, non-repetitive daily schedules for Andhra Pradesh (Tirupati) from 2026-11-15 to 2026-11-19.",
+                "Validation Agent: Performing safety and budget verification audits.",
+                "Validation Agent: Budget cushion note: Estimated \u20b946800 vs limit \u20b925000.0.",
+                "Validation Agent: AUDIT PASSED. Core itinerary conforms to safety and timing requirements."
+            ],
+            "validation_logs": [],
+            "is_valid": true,
+            "retry_count": 0,
+            "error_message": null,
+            "suggested_adjustments": null,
+            "user_id": "6a997b60942162a029850e8e",
+            "created_at": "2026-09-30T16:34:45.267407",
+            "status": "saved",
+            "_id": "6abd3a25278fc563760610da",
+            "id": "6abd3a25278fc563760610da",
+            "svg_map": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 140\" width=\"100%\" height=\"140\">\n      <defs>\n        <linearGradient id=\"routeGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n          <stop offset=\"0%\" stop-color=\"#d9261c\" />\n          <stop offset=\"100%\" stop-color=\"#ef4444\" />\n        </linearGradient>\n      </defs>\n      <rect width=\"100%\" height=\"100%\" rx=\"16\" fill=\"#fee2e2\" stroke=\"#d9261c\" stroke-width=\"2\"/>\n      <path d=\"M 80 70 Q 400 15 720 70\" fill=\"none\" stroke=\"url(#routeGrad)\" stroke-width=\"4\" stroke-dasharray=\"6 4\"/>\n      <circle cx=\"80\" cy=\"70\" r=\"10\" fill=\"#d9261c\"/>\n      <circle cx=\"720\" cy=\"70\" r=\"10\" fill=\"#d9261c\"/>\n      <text x=\"80\" y=\"105\" font-family=\"sans-serif\" font-weight=\"900\" font-size=\"13\" fill=\"#000\" text-anchor=\"middle\"></text>\n      <text x=\"720\" y=\"105\" font-family=\"sans-serif\" font-weight=\"900\" font-size=\"13\" fill=\"#000\" text-anchor=\"middle\">Andhra Pradesh (Tirupati)</text>\n      <text x=\"400\" y=\"40\" font-family=\"sans-serif\" font-weight=\"900\" font-size=\"12\" fill=\"#d9261c\" text-anchor=\"middle\">\ud83d\udccd 5-Day Visual Route Map (svgAgent)</text>\n    </svg>"
+        },
+        {
+            "start_location": "Mumbai",
+            "destination": "Rajasthan (Udaipur)",
+            "budget": 25000,
+            "start_date": "2026-11-15",
+            "end_date": "2026-11-18",
+            "travelers": 2,
+            "interests": [
+                "Beaches",
+                "Nature",
+                "Food"
+            ],
+            "style": "Balanced",
+            "transport_pref": "No preference",
+            "hotel_pref": "No preference",
+            "num_days": 4,
+            "extracted_interests": [
+                "Beaches",
+                "Nature",
+                "Food"
+            ],
+            "transport_options": [],
+            "selected_transport": {
+                "mode": "Train",
+                "name": "Express Superfast (Mumbai to Rajasthan (Udaipur))",
+                "cost_per_person": 550,
+                "duration_hours": 7.5,
+                "departure": "07:30 AM",
+                "arrival": "03:00 PM",
+                "suitability": "Economical and comfortable daytime journey.",
+                "comfort_tier": "Standard"
+            },
+            "hotel_options": [],
+            "selected_hotel": {
+                "id": "rajasthan (udaipur)_standard_1",
+                "name": "Rajasthan (Udaipur) Grand Residency",
+                "style": "Standard",
+                "price_per_night": 3200,
+                "rating": 4.4,
+                "distance_km": 1.1,
+                "description": "Comfortable mid-range hotel with modern amenities and complimentary breakfast.",
+                "trade_off": "Balanced price and comfort.",
+                "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grand+Hotel%2C+Rajasthan+%28Udaipur%29"
+            },
+            "attractions": [],
+            "weather_forecast": [],
+            "itinerary": [
+                {
+                    "day": 1,
+                    "day_label": "Day 1 \u2013 November 15, 2026",
+                    "theme": "Arrival, Historic Orientation & Central Landmarks",
+                    "date": "2026-11-15",
+                    "date_formatted": "November 15, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Authentic Regional Breakfast at Central Cafe in Rajasthan (Udaipur)",
+                            "details": "Enjoy hot authentic breakfast dishes and freshly brewed tea/coffee.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Authentic+Regional+Breakfast+at+Central+Cafe%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Rajasthan (Udaipur) Historic Heritage Trail (Zone 1)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Rajasthan (Udaipur). (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rajasthan+%28Udaipur%29+Historic+Heritage+Trail+%28Zone+1%29%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Traditional Thali Meal at Top-Rated Regional Diner (Rajasthan (Udaipur))",
+                            "details": "Authentic multi-course meal served with local spices and rice.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Thali+Meal+at+Top-Rated+Regional+Diner%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Rajasthan (Udaipur) Panoramic Viewpoint (Spot #1)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Rajasthan (Udaipur). (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rajasthan+%28Udaipur%29+Panoramic+Viewpoint+%28Spot+%231%29%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Rajasthan (Udaipur) Heritage Promenade (Day 1)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Welcome Dinner at Historic City Bistro",
+                            "details": "Celebratory arrival dinner featuring popular local delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Welcome+Dinner+at+Historic+City+Bistro%2C+Rajasthan+%28Udaipur%29"
+                        }
+                    ]
+                },
+                {
+                    "day": 2,
+                    "day_label": "Day 2 \u2013 November 16, 2026",
+                    "theme": "Cultural Heritage, Architectural Wonders & Museums",
+                    "date": "2026-11-16",
+                    "date_formatted": "November 16, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Fresh Morning Pastries & Artisanal Tea at Heritage Bakery in Rajasthan (Udaipur)",
+                            "details": "Savor fresh morning bakes, cardamom tea, and seasonal fruit.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fresh+Morning+Pastries+%26+Artisanal+Tea+at+Heritage+Bakery%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Rajasthan (Udaipur) Historic Heritage Trail (Zone 2)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Rajasthan (Udaipur). (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rajasthan+%28Udaipur%29+Historic+Heritage+Trail+%28Zone+2%29%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Heritage Cuisine & Regional Specialties at Old Town Cafe (Rajasthan (Udaipur))",
+                            "details": "Sample signature traditional recipes prepared with fresh ingredients.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Heritage+Cuisine+%26+Regional+Specialties+at+Old+Town+Cafe%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Rajasthan (Udaipur) Panoramic Viewpoint (Spot #2)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Rajasthan (Udaipur). (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rajasthan+%28Udaipur%29+Panoramic+Viewpoint+%28Spot+%232%29%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Rajasthan (Udaipur) Heritage Promenade (Day 2)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Fine Dining Regional Experience at Heritage Mansion",
+                            "details": "Multi-course dinner inside an authentic heritage courtyard.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fine+Dining+Regional+Experience+at+Heritage+Mansion%2C+Rajasthan+%28Udaipur%29"
+                        }
+                    ]
+                },
+                {
+                    "day": 3,
+                    "day_label": "Day 3 \u2013 November 17, 2026",
+                    "theme": "Nature Sanctuaries, Scenic Parks & Lake Promenade",
+                    "date": "2026-11-17",
+                    "date_formatted": "November 17, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Traditional Breakfast Buffet at Landmark Diner in Rajasthan (Udaipur)",
+                            "details": "Hearty regional breakfast featuring local specialty dishes.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Breakfast+Buffet+at+Landmark+Diner%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Rajasthan (Udaipur) Historic Heritage Trail (Zone 3)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Rajasthan (Udaipur). (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rajasthan+%28Udaipur%29+Historic+Heritage+Trail+%28Zone+3%29%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Garden Bistro Organic Lunch with Scenic Views (Rajasthan (Udaipur))",
+                            "details": "Enjoy light gourmet lunch amidst tranquil garden surroundings.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Garden+Bistro+Organic+Lunch+with+Scenic+Views%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Rajasthan (Udaipur) Panoramic Viewpoint (Spot #3)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Rajasthan (Udaipur). (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rajasthan+%28Udaipur%29+Panoramic+Viewpoint+%28Spot+%233%29%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Rajasthan (Udaipur) Heritage Promenade (Day 3)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Candlelight Dinner with Skyline/Mountain Views",
+                            "details": "Romantic evening dining with panoramic views over the city.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Candlelight+Dinner+with+Skyline%2FMountain+Views%2C+Rajasthan+%28Udaipur%29"
+                        }
+                    ]
+                },
+                {
+                    "day": 4,
+                    "day_label": "Day 4 \u2013 November 18, 2026",
+                    "theme": "Local Artisan Bazaars, Handicrafts & Culinary Discovery",
+                    "date": "2026-11-18",
+                    "date_formatted": "November 18, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Highland Spiced Tea & Fresh Local Fritters in Rajasthan (Udaipur)",
+                            "details": "Hot spiced tea served with freshly fried local breakfast fritters.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Highland+Spiced+Tea+%26+Fresh+Local+Fritters%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Rajasthan (Udaipur) Historic Heritage Trail (Zone 4)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Rajasthan (Udaipur). (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rajasthan+%28Udaipur%29+Historic+Heritage+Trail+%28Zone+4%29%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Famous Regional Biryani & Curries Feast (Rajasthan (Udaipur))",
+                            "details": "Savor aromatic spiced rice and traditional slow-cooked gravies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Famous+Regional+Biryani+%26+Curries+Feast%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Rajasthan (Udaipur) Panoramic Viewpoint (Spot #4)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Rajasthan (Udaipur). (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rajasthan+%28Udaipur%29+Panoramic+Viewpoint+%28Spot+%234%29%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Rajasthan (Udaipur) Heritage Promenade (Day 4)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Rajasthan+%28Udaipur%29"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Traditional Charcoal Grill & Tandoori Specialties",
+                            "details": "Flavorful grilled skewers, breads, and spiced rich gravies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Charcoal+Grill+%26+Tandoori+Specialties%2C+Rajasthan+%28Udaipur%29"
+                        }
+                    ]
+                }
+            ],
+            "budget_breakdown": {
+                "transportation": 1100,
+                "hotel": 9600,
+                "food": 4000,
+                "local_transport": 2800,
+                "activities": 0,
+                "miscellaneous": 1000,
+                "total": 18500,
+                "cost_per_person": 9250,
+                "remaining": 6500,
+                "percentage_spent": 74,
+                "is_estimated": true
+            },
+            "logs": [
+                "Orchestrator: Initializing planning workspace.",
+                "Orchestrator: Parsing request goals and travel constraints.",
+                "Orchestrator: Extracted trip parameters (4 days, 2026-11-15 to 2026-11-18, 2 travelers, budget \u20b925000.0).",
+                "Parallel Agent Orchestrator: Executing Transport, Hotel, Places, and Weather agents in parallel.",
+                "Transport Agent: Analyzing route options from Mumbai to Rajasthan (Udaipur).",
+                "Transport Agent: Selected Train (Express Superfast (Mumbai to Rajasthan (Udaipur))) at \u20b9550/person.",
+                "Hotel Agent: Querying accommodation options in Rajasthan (Udaipur).",
+                "Hotel Agent: Selected Rajasthan (Udaipur) Grand Residency (Standard) at \u20b93200/night. Reason: Balanced price and comfort.",
+                "Places Agent: Fetching attraction guides and RAG documents.",
+                "Places Agent: Retrieved RAG context about Rajasthan (Udaipur).",
+                "Places Agent: Selected 6 top-tier attractions matching interests.",
+                "Weather Agent: Fetching live weather forecast for Rajasthan (Udaipur).",
+                "Weather Agent: Live weather API unavailable/timed out, using climate defaults.",
+                "Parallel Agent Orchestrator: All regional & constraint agents completed execution.",
+                "Budget Agent: Calculating final estimated cost breakdown.",
+                "Budget Agent: Estimated total cost at \u20b918500 (\u20b99250.0 per person).",
+                "Itinerary Agent: Structuring date-accurate, non-repetitive day-by-day itinerary.",
+                "Itinerary Agent: Generated 4 unique, non-repetitive daily schedules for Rajasthan (Udaipur) from 2026-11-15 to 2026-11-18.",
+                "Validation Agent: Performing safety and budget verification audits.",
+                "Validation Agent: AUDIT PASSED. Core itinerary conforms to safety and timing requirements."
+            ],
+            "validation_logs": [],
+            "is_valid": true,
+            "retry_count": 0,
+            "error_message": null,
+            "suggested_adjustments": null,
+            "user_id": "6a997b60942162a029850e8e",
+            "created_at": "2026-09-30T16:53:13.196377",
+            "status": "saved",
+            "_id": "6abd3e79278fc563760610db",
+            "id": "6abd3e79278fc563760610db",
+            "svg_map": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 140\" width=\"100%\" height=\"140\">\n      <defs>\n        <linearGradient id=\"routeGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n          <stop offset=\"0%\" stop-color=\"#d9261c\" />\n          <stop offset=\"100%\" stop-color=\"#ef4444\" />\n        </linearGradient>\n      </defs>\n      <rect width=\"100%\" height=\"100%\" rx=\"16\" fill=\"#fee2e2\" stroke=\"#d9261c\" stroke-width=\"2\"/>\n      <path d=\"M 80 70 Q 400 15 720 70\" fill=\"none\" stroke=\"url(#routeGrad)\" stroke-width=\"4\" stroke-dasharray=\"6 4\"/>\n      <circle cx=\"80\" cy=\"70\" r=\"10\" fill=\"#d9261c\"/>\n      <circle cx=\"720\" cy=\"70\" r=\"10\" fill=\"#d9261c\"/>\n      <text x=\"80\" y=\"105\" font-family=\"sans-serif\" font-weight=\"900\" font-size=\"13\" fill=\"#000\" text-anchor=\"middle\">Mumbai</text>\n      <text x=\"720\" y=\"105\" font-family=\"sans-serif\" font-weight=\"900\" font-size=\"13\" fill=\"#000\" text-anchor=\"middle\">Rajasthan (Udaipur)</text>\n      <text x=\"400\" y=\"40\" font-family=\"sans-serif\" font-weight=\"900\" font-size=\"12\" fill=\"#d9261c\" text-anchor=\"middle\">\ud83d\udccd 4-Day Visual Route Map (svgAgent)</text>\n    </svg>"
+        },
+        {
+            "start_location": "Vijayawada",
+            "destination": "Andaman & Nicobar Islands (Radhanagar)",
+            "budget": 25000,
+            "start_date": "2026-10-01",
+            "end_date": "2026-10-04",
+            "travelers": 4,
+            "interests": [
+                "Beaches",
+                "Nature",
+                "Food"
+            ],
+            "style": "Balanced",
+            "transport_pref": "No preference",
+            "hotel_pref": "No preference",
+            "num_days": 4,
+            "extracted_interests": [
+                "Beaches",
+                "Nature",
+                "Food"
+            ],
+            "transport_options": [],
+            "selected_transport": {
+                "mode": "Train",
+                "name": "Express Superfast (Vijayawada to Andaman & Nicobar Islands (Radhanagar))",
+                "cost_per_person": 550,
+                "duration_hours": 7.5,
+                "departure": "07:30 AM",
+                "arrival": "03:00 PM",
+                "suitability": "Economical and comfortable daytime journey.",
+                "comfort_tier": "Standard"
+            },
+            "hotel_options": [],
+            "selected_hotel": {
+                "id": "andaman & nicobar islands (radhanagar)_standard_1",
+                "name": "Andaman & Nicobar Islands (Radhanagar) Grand Residency",
+                "style": "Standard",
+                "price_per_night": 3200,
+                "rating": 4.4,
+                "distance_km": 1.1,
+                "description": "Comfortable mid-range hotel with modern amenities and complimentary breakfast.",
+                "trade_off": "Balanced price and comfort.",
+                "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grand+Hotel%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+            },
+            "attractions": [],
+            "weather_forecast": [],
+            "itinerary": [
+                {
+                    "day": 1,
+                    "day_label": "Day 1 \u2013 October 01, 2026",
+                    "theme": "Arrival, Historic Orientation & Central Landmarks",
+                    "date": "2026-10-01",
+                    "date_formatted": "October 01, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Authentic Regional Breakfast at Central Cafe in Andaman & Nicobar Islands (Radhanagar)",
+                            "details": "Enjoy hot authentic breakfast dishes and freshly brewed tea/coffee.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Authentic+Regional+Breakfast+at+Central+Cafe%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Andaman & Nicobar Islands (Radhanagar) Historic Heritage Trail (Zone 1)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Andaman & Nicobar Islands (Radhanagar). (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andaman+%26+Nicobar+Islands+%28Radhanagar%29+Historic+Heritage+Trail+%28Zone+1%29%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Traditional Thali Meal at Top-Rated Regional Diner (Andaman & Nicobar Islands (Radhanagar))",
+                            "details": "Authentic multi-course meal served with local spices and rice.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Thali+Meal+at+Top-Rated+Regional+Diner%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Andaman & Nicobar Islands (Radhanagar) Panoramic Viewpoint (Spot #1)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Andaman & Nicobar Islands (Radhanagar). (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andaman+%26+Nicobar+Islands+%28Radhanagar%29+Panoramic+Viewpoint+%28Spot+%231%29%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Andaman & Nicobar Islands (Radhanagar) Heritage Promenade (Day 1)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Welcome Dinner at Historic City Bistro",
+                            "details": "Celebratory arrival dinner featuring popular local delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Welcome+Dinner+at+Historic+City+Bistro%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        }
+                    ]
+                },
+                {
+                    "day": 2,
+                    "day_label": "Day 2 \u2013 October 02, 2026",
+                    "theme": "Cultural Heritage, Architectural Wonders & Museums",
+                    "date": "2026-10-02",
+                    "date_formatted": "October 02, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Fresh Morning Pastries & Artisanal Tea at Heritage Bakery in Andaman & Nicobar Islands (Radhanagar)",
+                            "details": "Savor fresh morning bakes, cardamom tea, and seasonal fruit.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fresh+Morning+Pastries+%26+Artisanal+Tea+at+Heritage+Bakery%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Andaman & Nicobar Islands (Radhanagar) Historic Heritage Trail (Zone 2)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Andaman & Nicobar Islands (Radhanagar). (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andaman+%26+Nicobar+Islands+%28Radhanagar%29+Historic+Heritage+Trail+%28Zone+2%29%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Heritage Cuisine & Regional Specialties at Old Town Cafe (Andaman & Nicobar Islands (Radhanagar))",
+                            "details": "Sample signature traditional recipes prepared with fresh ingredients.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Heritage+Cuisine+%26+Regional+Specialties+at+Old+Town+Cafe%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Andaman & Nicobar Islands (Radhanagar) Panoramic Viewpoint (Spot #2)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Andaman & Nicobar Islands (Radhanagar). (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andaman+%26+Nicobar+Islands+%28Radhanagar%29+Panoramic+Viewpoint+%28Spot+%232%29%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Andaman & Nicobar Islands (Radhanagar) Heritage Promenade (Day 2)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Fine Dining Regional Experience at Heritage Mansion",
+                            "details": "Multi-course dinner inside an authentic heritage courtyard.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fine+Dining+Regional+Experience+at+Heritage+Mansion%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        }
+                    ]
+                },
+                {
+                    "day": 3,
+                    "day_label": "Day 3 \u2013 October 03, 2026",
+                    "theme": "Nature Sanctuaries, Scenic Parks & Lake Promenade",
+                    "date": "2026-10-03",
+                    "date_formatted": "October 03, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Traditional Breakfast Buffet at Landmark Diner in Andaman & Nicobar Islands (Radhanagar)",
+                            "details": "Hearty regional breakfast featuring local specialty dishes.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Breakfast+Buffet+at+Landmark+Diner%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Andaman & Nicobar Islands (Radhanagar) Historic Heritage Trail (Zone 3)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Andaman & Nicobar Islands (Radhanagar). (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andaman+%26+Nicobar+Islands+%28Radhanagar%29+Historic+Heritage+Trail+%28Zone+3%29%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Garden Bistro Organic Lunch with Scenic Views (Andaman & Nicobar Islands (Radhanagar))",
+                            "details": "Enjoy light gourmet lunch amidst tranquil garden surroundings.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Garden+Bistro+Organic+Lunch+with+Scenic+Views%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Andaman & Nicobar Islands (Radhanagar) Panoramic Viewpoint (Spot #3)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Andaman & Nicobar Islands (Radhanagar). (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andaman+%26+Nicobar+Islands+%28Radhanagar%29+Panoramic+Viewpoint+%28Spot+%233%29%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Andaman & Nicobar Islands (Radhanagar) Heritage Promenade (Day 3)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Candlelight Dinner with Skyline/Mountain Views",
+                            "details": "Romantic evening dining with panoramic views over the city.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Candlelight+Dinner+with+Skyline%2FMountain+Views%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        }
+                    ]
+                },
+                {
+                    "day": 4,
+                    "day_label": "Day 4 \u2013 October 04, 2026",
+                    "theme": "Local Artisan Bazaars, Handicrafts & Culinary Discovery",
+                    "date": "2026-10-04",
+                    "date_formatted": "October 04, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Highland Spiced Tea & Fresh Local Fritters in Andaman & Nicobar Islands (Radhanagar)",
+                            "details": "Hot spiced tea served with freshly fried local breakfast fritters.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Highland+Spiced+Tea+%26+Fresh+Local+Fritters%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Andaman & Nicobar Islands (Radhanagar) Historic Heritage Trail (Zone 4)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Andaman & Nicobar Islands (Radhanagar). (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andaman+%26+Nicobar+Islands+%28Radhanagar%29+Historic+Heritage+Trail+%28Zone+4%29%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Famous Regional Biryani & Curries Feast (Andaman & Nicobar Islands (Radhanagar))",
+                            "details": "Savor aromatic spiced rice and traditional slow-cooked gravies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Famous+Regional+Biryani+%26+Curries+Feast%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Andaman & Nicobar Islands (Radhanagar) Panoramic Viewpoint (Spot #4)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Andaman & Nicobar Islands (Radhanagar). (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andaman+%26+Nicobar+Islands+%28Radhanagar%29+Panoramic+Viewpoint+%28Spot+%234%29%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Andaman & Nicobar Islands (Radhanagar) Heritage Promenade (Day 4)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Traditional Charcoal Grill & Tandoori Specialties",
+                            "details": "Flavorful grilled skewers, breads, and spiced rich gravies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Charcoal+Grill+%26+Tandoori+Specialties%2C+Andaman+%26+Nicobar+Islands+%28Radhanagar%29"
+                        }
+                    ]
+                }
+            ],
+            "budget_breakdown": {
+                "transportation": 2200,
+                "hotel": 19200,
+                "food": 8000,
+                "local_transport": 5600,
+                "activities": 0,
+                "miscellaneous": 2000,
+                "total": 37000,
+                "cost_per_person": 9250,
+                "remaining": -12000,
+                "percentage_spent": 148,
+                "is_estimated": true
+            },
+            "logs": [
+                "Orchestrator: Initializing planning workspace.",
+                "Orchestrator: Parsing request goals and travel constraints.",
+                "Orchestrator: Extracted trip parameters (4 days, 2026-10-01 to 2026-10-04, 4 travelers, budget \u20b925000.0).",
+                "Parallel Agent Orchestrator: Executing Transport, Hotel, Places, and Weather agents in parallel.",
+                "Transport Agent: Analyzing route options from Vijayawada to Andaman & Nicobar Islands (Radhanagar).",
+                "Transport Agent: Selected Train (Express Superfast (Vijayawada to Andaman & Nicobar Islands (Radhanagar))) at \u20b9550/person.",
+                "Hotel Agent: Querying accommodation options in Andaman & Nicobar Islands (Radhanagar).",
+                "Hotel Agent: Selected Andaman & Nicobar Islands (Radhanagar) Grand Residency (Standard) at \u20b93200/night. Reason: Balanced price and comfort.",
+                "Places Agent: Fetching attraction guides and RAG documents.",
+                "Places Agent: Retrieved RAG context about Andaman & Nicobar Islands (Radhanagar).",
+                "Places Agent: Selected 6 top-tier attractions matching interests.",
+                "Weather Agent: Fetching live weather forecast for Andaman & Nicobar Islands (Radhanagar).",
+                "Weather Agent: Live weather API unavailable/timed out, using climate defaults.",
+                "Parallel Agent Orchestrator: All regional & constraint agents completed execution.",
+                "Budget Agent: Calculating final estimated cost breakdown.",
+                "Budget Agent: Estimated total cost at \u20b937000 (\u20b99250.0 per person).",
+                "Itinerary Agent: Structuring date-accurate, non-repetitive day-by-day itinerary.",
+                "Itinerary Agent: Generated 4 unique, non-repetitive daily schedules for Andaman & Nicobar Islands (Radhanagar) from 2026-10-01 to 2026-10-04.",
+                "Validation Agent: Performing safety and budget verification audits.",
+                "Validation Agent: Budget cushion note: Estimated \u20b937000 vs limit \u20b925000.0.",
+                "Validation Agent: AUDIT PASSED. Core itinerary conforms to safety and timing requirements."
+            ],
+            "validation_logs": [],
+            "is_valid": true,
+            "retry_count": 0,
+            "error_message": null,
+            "suggested_adjustments": null,
+            "user_id": "6a997b60942162a029850e8e",
+            "created_at": "2026-09-30T17:04:55.406986",
+            "status": "saved",
+            "_id": "6abd413792a0d80be31a12b4",
+            "id": "6abd413792a0d80be31a12b4",
+            "svg_map": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 140\" width=\"100%\" height=\"140\">\n      <defs>\n        <linearGradient id=\"routeGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n          <stop offset=\"0%\" stop-color=\"#d9261c\" />\n          <stop offset=\"100%\" stop-color=\"#ef4444\" />\n        </linearGradient>\n      </defs>\n      <rect width=\"100%\" height=\"100%\" rx=\"16\" fill=\"#fee2e2\" stroke=\"#d9261c\" stroke-width=\"2\"/>\n      <path d=\"M 80 70 Q 400 15 720 70\" fill=\"none\" stroke=\"url(#routeGrad)\" stroke-width=\"4\" stroke-dasharray=\"6 4\"/>\n      <circle cx=\"80\" cy=\"70\" r=\"10\" fill=\"#d9261c\"/>\n      <circle cx=\"720\" cy=\"70\" r=\"10\" fill=\"#d9261c\"/>\n      <text x=\"80\" y=\"105\" font-family=\"sans-serif\" font-weight=\"900\" font-size=\"13\" fill=\"#000\" text-anchor=\"middle\">Vijayawada</text>\n      <text x=\"720\" y=\"105\" font-family=\"sans-serif\" font-weight=\"900\" font-size=\"13\" fill=\"#000\" text-anchor=\"middle\">Andaman & Nicobar Islands (Radhanagar)</text>\n      <text x=\"400\" y=\"40\" font-family=\"sans-serif\" font-weight=\"900\" font-size=\"12\" fill=\"#d9261c\" text-anchor=\"middle\">\ud83d\udccd 4-Day Visual Route Map (svgAgent)</text>\n    </svg>"
+        },
+        {
+            "start_location": "Hyderabad",
+            "destination": "Kerala",
+            "budget": 65000,
+            "start_date": "2026-09-15",
+            "end_date": "2026-09-18",
+            "travelers": 2,
+            "interests": [
+                "Beaches",
+                "Nature",
+                "Food"
+            ],
+            "style": "Nature-focused",
+            "transport_pref": "No preference",
+            "hotel_pref": "No preference",
+            "num_days": 4,
+            "extracted_interests": [
+                "Beaches",
+                "Nature",
+                "Food"
+            ],
+            "transport_options": [],
+            "selected_transport": {
+                "mode": "Train",
+                "name": "Express Superfast (Hyderabad to Kerala)",
+                "cost_per_person": 550,
+                "duration_hours": 7.5,
+                "departure": "07:30 AM",
+                "arrival": "03:00 PM",
+                "suitability": "Economical and comfortable daytime journey.",
+                "comfort_tier": "Standard"
+            },
+            "hotel_options": [],
+            "selected_hotel": {
+                "id": "ker_standard_1",
+                "name": "Fort House Hotel Kochi",
+                "style": "Standard",
+                "price_per_night": 3600,
+                "rating": 4.5,
+                "distance_km": 0.8,
+                "description": "Charming waterfront boutique hotel with lush garden courtyard and acclaimed seafood restaurant.",
+                "trade_off": "Balanced comfort with scenic waterfront dining at reasonable rates.",
+                "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fort+House+Hotel%2C+Fort+Kochi+Kerala"
+            },
+            "attractions": [],
+            "weather_forecast": [],
+            "itinerary": [
+                {
+                    "day": 1,
+                    "day_label": "Day 1 \u2013 September 15, 2026",
+                    "theme": "Arrival, Historic Orientation & Central Landmarks",
+                    "date": "2026-09-15",
+                    "date_formatted": "September 15, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Authentic Regional Breakfast at Central Cafe in Kerala",
+                            "details": "Enjoy hot authentic breakfast dishes and freshly brewed tea/coffee.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Authentic+Regional+Breakfast+at+Central+Cafe%2C+Kerala"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Kerala Historic Heritage Trail (Zone 1)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Kerala. (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kerala+Historic+Heritage+Trail+%28Zone+1%29%2C+Kerala"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Traditional Thali Meal at Top-Rated Regional Diner (Kerala)",
+                            "details": "Authentic multi-course meal served with local spices and rice.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Thali+Meal+at+Top-Rated+Regional+Diner%2C+Kerala"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Kerala Panoramic Viewpoint (Spot #1)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Kerala. (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kerala+Panoramic+Viewpoint+%28Spot+%231%29%2C+Kerala"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Kerala Heritage Promenade (Day 1)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Kerala"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Welcome Dinner at Historic City Bistro",
+                            "details": "Celebratory arrival dinner featuring popular local delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Welcome+Dinner+at+Historic+City+Bistro%2C+Kerala"
+                        }
+                    ]
+                },
+                {
+                    "day": 2,
+                    "day_label": "Day 2 \u2013 September 16, 2026",
+                    "theme": "Cultural Heritage, Architectural Wonders & Museums",
+                    "date": "2026-09-16",
+                    "date_formatted": "September 16, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Fresh Morning Pastries & Artisanal Tea at Heritage Bakery in Kerala",
+                            "details": "Savor fresh morning bakes, cardamom tea, and seasonal fruit.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fresh+Morning+Pastries+%26+Artisanal+Tea+at+Heritage+Bakery%2C+Kerala"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Kerala Historic Heritage Trail (Zone 2)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Kerala. (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kerala+Historic+Heritage+Trail+%28Zone+2%29%2C+Kerala"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Heritage Cuisine & Regional Specialties at Old Town Cafe (Kerala)",
+                            "details": "Sample signature traditional recipes prepared with fresh ingredients.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Heritage+Cuisine+%26+Regional+Specialties+at+Old+Town+Cafe%2C+Kerala"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Kerala Panoramic Viewpoint (Spot #2)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Kerala. (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kerala+Panoramic+Viewpoint+%28Spot+%232%29%2C+Kerala"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Kerala Heritage Promenade (Day 2)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Kerala"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Fine Dining Regional Experience at Heritage Mansion",
+                            "details": "Multi-course dinner inside an authentic heritage courtyard.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fine+Dining+Regional+Experience+at+Heritage+Mansion%2C+Kerala"
+                        }
+                    ]
+                },
+                {
+                    "day": 3,
+                    "day_label": "Day 3 \u2013 September 17, 2026",
+                    "theme": "Nature Sanctuaries, Scenic Parks & Lake Promenade",
+                    "date": "2026-09-17",
+                    "date_formatted": "September 17, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Traditional Breakfast Buffet at Landmark Diner in Kerala",
+                            "details": "Hearty regional breakfast featuring local specialty dishes.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Breakfast+Buffet+at+Landmark+Diner%2C+Kerala"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Kerala Historic Heritage Trail (Zone 3)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Kerala. (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kerala+Historic+Heritage+Trail+%28Zone+3%29%2C+Kerala"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Garden Bistro Organic Lunch with Scenic Views (Kerala)",
+                            "details": "Enjoy light gourmet lunch amidst tranquil garden surroundings.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Garden+Bistro+Organic+Lunch+with+Scenic+Views%2C+Kerala"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Kerala Panoramic Viewpoint (Spot #3)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Kerala. (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kerala+Panoramic+Viewpoint+%28Spot+%233%29%2C+Kerala"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Kerala Heritage Promenade (Day 3)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Kerala"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Candlelight Dinner with Skyline/Mountain Views",
+                            "details": "Romantic evening dining with panoramic views over the city.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Candlelight+Dinner+with+Skyline%2FMountain+Views%2C+Kerala"
+                        }
+                    ]
+                },
+                {
+                    "day": 4,
+                    "day_label": "Day 4 \u2013 September 18, 2026",
+                    "theme": "Local Artisan Bazaars, Handicrafts & Culinary Discovery",
+                    "date": "2026-09-18",
+                    "date_formatted": "September 18, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Highland Spiced Tea & Fresh Local Fritters in Kerala",
+                            "details": "Hot spiced tea served with freshly fried local breakfast fritters.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Highland+Spiced+Tea+%26+Fresh+Local+Fritters%2C+Kerala"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Kerala Historic Heritage Trail (Zone 4)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Kerala. (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kerala+Historic+Heritage+Trail+%28Zone+4%29%2C+Kerala"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Famous Regional Biryani & Curries Feast (Kerala)",
+                            "details": "Savor aromatic spiced rice and traditional slow-cooked gravies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Famous+Regional+Biryani+%26+Curries+Feast%2C+Kerala"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Kerala Panoramic Viewpoint (Spot #4)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Kerala. (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kerala+Panoramic+Viewpoint+%28Spot+%234%29%2C+Kerala"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Kerala Heritage Promenade (Day 4)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Kerala"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Traditional Charcoal Grill & Tandoori Specialties",
+                            "details": "Flavorful grilled skewers, breads, and spiced rich gravies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Charcoal+Grill+%26+Tandoori+Specialties%2C+Kerala"
+                        }
+                    ]
+                }
+            ],
+            "budget_breakdown": {
+                "transportation": 1100,
+                "hotel": 10800,
+                "food": 4000,
+                "local_transport": 2800,
+                "activities": 0,
+                "miscellaneous": 1000,
+                "total": 19700,
+                "cost_per_person": 9850,
+                "remaining": 45300,
+                "percentage_spent": 30.3,
+                "is_estimated": true
+            },
+            "logs": [
+                "Orchestrator: Initializing planning workspace.",
+                "Orchestrator: Parsing request goals and travel constraints.",
+                "Orchestrator: Extracted trip parameters (4 days, 2026-09-15 to 2026-09-18, 2 travelers, budget \u20b965000.0).",
+                "Parallel Agent Orchestrator: Executing Transport, Hotel, Places, and Weather agents in parallel.",
+                "Transport Agent: Analyzing route options from Hyderabad to Kerala.",
+                "Transport Agent: Selected Train (Express Superfast (Hyderabad to Kerala)) at \u20b9550/person.",
+                "Hotel Agent: Querying accommodation options in Kerala.",
+                "Hotel Agent: Selected Fort House Hotel Kochi (Standard) at \u20b93600/night. Reason: Balanced comfort with scenic waterfront dining at reasonable rates.",
+                "Places Agent: Fetching attraction guides and RAG documents.",
+                "Places Agent: Retrieved RAG context about Kerala.",
+                "Places Agent: Selected 10 top-tier attractions matching interests.",
+                "Weather Agent: Fetching live weather forecast for Kerala.",
+                "Weather Agent: Live weather API unavailable/timed out, using climate defaults.",
+                "Parallel Agent Orchestrator: All regional & constraint agents completed execution.",
+                "Budget Agent: Calculating final estimated cost breakdown.",
+                "Budget Agent: Estimated total cost at \u20b919700 (\u20b99850.0 per person).",
+                "Itinerary Agent: Structuring date-accurate, non-repetitive day-by-day itinerary.",
+                "Itinerary Agent: Generated 4 unique, non-repetitive daily schedules for Kerala from 2026-09-15 to 2026-09-18.",
+                "Validation Agent: Performing safety and budget verification audits.",
+                "Validation Agent: AUDIT PASSED. Core itinerary conforms to safety and timing requirements."
+            ],
+            "validation_logs": [],
+            "is_valid": true,
+            "retry_count": 0,
+            "error_message": null,
+            "suggested_adjustments": null,
+            "user_id": "6a997b60942162a029850e8e",
+            "created_at": "2026-10-01T03:56:28.018696",
+            "status": "saved",
+            "_id": "6abdd9ec90c9dda3b49e9b8f",
+            "id": "6abdd9ec90c9dda3b49e9b8f",
+            "svg_map": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 140\" width=\"100%\" height=\"140\">\n      <defs>\n        <linearGradient id=\"routeGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n          <stop offset=\"0%\" stop-color=\"#d9261c\" />\n          <stop offset=\"100%\" stop-color=\"#ef4444\" />\n        </linearGradient>\n      </defs>\n      <rect width=\"100%\" height=\"100%\" rx=\"16\" fill=\"#fee2e2\" stroke=\"#d9261c\" stroke-width=\"2\"/>\n      <path d=\"M 80 70 Q 400 15 720 70\" fill=\"none\" stroke=\"url(#routeGrad)\" stroke-width=\"4\" stroke-dasharray=\"6 4\"/>\n      <circle cx=\"80\" cy=\"70\" r=\"10\" fill=\"#d9261c\"/>\n      <circle cx=\"720\" cy=\"70\" r=\"10\" fill=\"#d9261c\"/>\n      <text x=\"80\" y=\"105\" font-family=\"sans-serif\" font-weight=\"900\" font-size=\"13\" fill=\"#000\" text-anchor=\"middle\">Hyderabad</text>\n      <text x=\"720\" y=\"105\" font-family=\"sans-serif\" font-weight=\"900\" font-size=\"13\" fill=\"#000\" text-anchor=\"middle\">Kerala</text>\n      <text x=\"400\" y=\"40\" font-family=\"sans-serif\" font-weight=\"900\" font-size=\"12\" fill=\"#d9261c\" text-anchor=\"middle\">\ud83d\udccd 4-Day Visual Route Map (svgAgent)</text>\n    </svg>"
+        },
+        {
+            "start_location": "vijayawada",
+            "destination": "Kerala (Munnar)",
+            "budget": 25000,
+            "start_date": "2026-11-01",
+            "end_date": "2026-11-04",
+            "travelers": 4,
+            "interests": [
+                "Beaches",
+                "Nature",
+                "Food"
+            ],
+            "style": "Cultural",
+            "transport_pref": "No preference",
+            "hotel_pref": "No preference",
+            "num_days": 4,
+            "extracted_interests": [
+                "Beaches",
+                "Nature",
+                "Food"
+            ],
+            "transport_options": [],
+            "selected_transport": {
+                "mode": "Train",
+                "name": "Express Superfast (vijayawada to Kerala (Munnar))",
+                "cost_per_person": 550,
+                "duration_hours": 7.5,
+                "departure": "07:30 AM",
+                "arrival": "03:00 PM",
+                "suitability": "Economical and comfortable daytime journey.",
+                "comfort_tier": "Standard"
+            },
+            "hotel_options": [],
+            "selected_hotel": {
+                "id": "ker_standard_1",
+                "name": "Fort House Hotel Kochi",
+                "style": "Standard",
+                "price_per_night": 3600,
+                "rating": 4.5,
+                "distance_km": 0.8,
+                "description": "Charming waterfront boutique hotel with lush garden courtyard and acclaimed seafood restaurant.",
+                "trade_off": "Balanced comfort with scenic waterfront dining at reasonable rates.",
+                "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fort+House+Hotel%2C+Fort+Kochi+Kerala"
+            },
+            "attractions": [],
+            "weather_forecast": [],
+            "itinerary": [
+                {
+                    "day": 1,
+                    "day_label": "Day 1 \u2013 November 01, 2026",
+                    "theme": "Arrival, Historic Orientation & Central Landmarks",
+                    "date": "2026-11-01",
+                    "date_formatted": "November 01, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Authentic Regional Breakfast at Central Cafe in Kerala (Munnar)",
+                            "details": "Enjoy hot authentic breakfast dishes and freshly brewed tea/coffee.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Authentic+Regional+Breakfast+at+Central+Cafe%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Kerala (Munnar) Historic Heritage Trail (Zone 1)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Kerala (Munnar). (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kerala+%28Munnar%29+Historic+Heritage+Trail+%28Zone+1%29%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Traditional Thali Meal at Top-Rated Regional Diner (Kerala (Munnar))",
+                            "details": "Authentic multi-course meal served with local spices and rice.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Thali+Meal+at+Top-Rated+Regional+Diner%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Kerala (Munnar) Panoramic Viewpoint (Spot #1)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Kerala (Munnar). (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kerala+%28Munnar%29+Panoramic+Viewpoint+%28Spot+%231%29%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Kerala (Munnar) Heritage Promenade (Day 1)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Welcome Dinner at Historic City Bistro",
+                            "details": "Celebratory arrival dinner featuring popular local delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Welcome+Dinner+at+Historic+City+Bistro%2C+Kerala+%28Munnar%29"
+                        }
+                    ]
+                },
+                {
+                    "day": 2,
+                    "day_label": "Day 2 \u2013 November 02, 2026",
+                    "theme": "Cultural Heritage, Architectural Wonders & Museums",
+                    "date": "2026-11-02",
+                    "date_formatted": "November 02, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Fresh Morning Pastries & Artisanal Tea at Heritage Bakery in Kerala (Munnar)",
+                            "details": "Savor fresh morning bakes, cardamom tea, and seasonal fruit.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fresh+Morning+Pastries+%26+Artisanal+Tea+at+Heritage+Bakery%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Kerala (Munnar) Historic Heritage Trail (Zone 2)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Kerala (Munnar). (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kerala+%28Munnar%29+Historic+Heritage+Trail+%28Zone+2%29%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Heritage Cuisine & Regional Specialties at Old Town Cafe (Kerala (Munnar))",
+                            "details": "Sample signature traditional recipes prepared with fresh ingredients.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Heritage+Cuisine+%26+Regional+Specialties+at+Old+Town+Cafe%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Kerala (Munnar) Panoramic Viewpoint (Spot #2)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Kerala (Munnar). (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kerala+%28Munnar%29+Panoramic+Viewpoint+%28Spot+%232%29%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Kerala (Munnar) Heritage Promenade (Day 2)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Fine Dining Regional Experience at Heritage Mansion",
+                            "details": "Multi-course dinner inside an authentic heritage courtyard.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fine+Dining+Regional+Experience+at+Heritage+Mansion%2C+Kerala+%28Munnar%29"
+                        }
+                    ]
+                },
+                {
+                    "day": 3,
+                    "day_label": "Day 3 \u2013 November 03, 2026",
+                    "theme": "Nature Sanctuaries, Scenic Parks & Lake Promenade",
+                    "date": "2026-11-03",
+                    "date_formatted": "November 03, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Traditional Breakfast Buffet at Landmark Diner in Kerala (Munnar)",
+                            "details": "Hearty regional breakfast featuring local specialty dishes.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Breakfast+Buffet+at+Landmark+Diner%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Kerala (Munnar) Historic Heritage Trail (Zone 3)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Kerala (Munnar). (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kerala+%28Munnar%29+Historic+Heritage+Trail+%28Zone+3%29%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Garden Bistro Organic Lunch with Scenic Views (Kerala (Munnar))",
+                            "details": "Enjoy light gourmet lunch amidst tranquil garden surroundings.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Garden+Bistro+Organic+Lunch+with+Scenic+Views%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Kerala (Munnar) Panoramic Viewpoint (Spot #3)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Kerala (Munnar). (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kerala+%28Munnar%29+Panoramic+Viewpoint+%28Spot+%233%29%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Kerala (Munnar) Heritage Promenade (Day 3)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Candlelight Dinner with Skyline/Mountain Views",
+                            "details": "Romantic evening dining with panoramic views over the city.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Candlelight+Dinner+with+Skyline%2FMountain+Views%2C+Kerala+%28Munnar%29"
+                        }
+                    ]
+                },
+                {
+                    "day": 4,
+                    "day_label": "Day 4 \u2013 November 04, 2026",
+                    "theme": "Local Artisan Bazaars, Handicrafts & Culinary Discovery",
+                    "date": "2026-11-04",
+                    "date_formatted": "November 04, 2026",
+                    "weather_condition": "Clear & Pleasant",
+                    "temp": "24-30\u00b0C",
+                    "icon": "\u2600\ufe0f",
+                    "schedule": [
+                        {
+                            "time": "08:30 AM",
+                            "activity": "Highland Spiced Tea & Fresh Local Fritters in Kerala (Munnar)",
+                            "details": "Hot spiced tea served with freshly fried local breakfast fritters.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Highland+Spiced+Tea+%26+Fresh+Local+Fritters%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "10:00 AM",
+                            "activity": "Explore Kerala (Munnar) Historic Heritage Trail (Zone 4)",
+                            "details": "Explore historic monuments, grand architecture, and heritage streets of Kerala (Munnar). (Rating: 4.7\u2605, Entry Fee: \u20b930)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kerala+%28Munnar%29+Historic+Heritage+Trail+%28Zone+4%29%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "01:00 PM",
+                            "activity": "Famous Regional Biryani & Curries Feast (Kerala (Munnar))",
+                            "details": "Savor aromatic spiced rice and traditional slow-cooked gravies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Famous+Regional+Biryani+%26+Curries+Feast%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "03:30 PM",
+                            "activity": "Visit Kerala (Munnar) Panoramic Viewpoint (Spot #4)",
+                            "details": "Breathtaking vantage point offering panoramic sunset photos across Kerala (Munnar). (Rating: 4.8\u2605, Entry Fee: \u20b920)",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kerala+%28Munnar%29+Panoramic+Viewpoint+%28Spot+%234%29%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "06:30 PM",
+                            "activity": "Evening Stroll at Kerala (Munnar) Heritage Promenade (Day 4)",
+                            "details": "Vibrant evening walk through colorful illuminated streets, sampling street food delicacies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Evening+Promenade+Market%2C+Kerala+%28Munnar%29"
+                        },
+                        {
+                            "time": "08:30 PM",
+                            "activity": "Traditional Charcoal Grill & Tandoori Specialties",
+                            "details": "Flavorful grilled skewers, breads, and spiced rich gravies.",
+                            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Charcoal+Grill+%26+Tandoori+Specialties%2C+Kerala+%28Munnar%29"
+                        }
+                    ]
+                }
+            ],
+            "budget_breakdown": {
+                "transportation": 2200,
+                "hotel": 21600,
+                "food": 8000,
+                "local_transport": 5600,
+                "activities": 0,
+                "miscellaneous": 2000,
+                "total": 39400,
+                "cost_per_person": 9850,
+                "remaining": -14400,
+                "percentage_spent": 157.6,
+                "is_estimated": true
+            },
+            "logs": [
+                "Orchestrator: Initializing planning workspace.",
+                "Orchestrator: Parsing request goals and travel constraints.",
+                "Orchestrator: Extracted trip parameters (4 days, 2026-11-01 to 2026-11-04, 4 travelers, budget \u20b925000.0).",
+                "Parallel Agent Orchestrator: Executing Transport, Hotel, Places, and Weather agents in parallel.",
+                "Transport Agent: Analyzing route options from vijayawada to Kerala (Munnar).",
+                "Transport Agent: Selected Train (Express Superfast (vijayawada to Kerala (Munnar))) at \u20b9550/person.",
+                "Hotel Agent: Querying accommodation options in Kerala (Munnar).",
+                "Hotel Agent: Selected Fort House Hotel Kochi (Standard) at \u20b93600/night. Reason: Balanced comfort with scenic waterfront dining at reasonable rates.",
+                "Places Agent: Fetching attraction guides and RAG documents.",
+                "Places Agent: Retrieved RAG context about Kerala (Munnar).",
+                "Places Agent: Selected 10 top-tier attractions matching interests.",
+                "Weather Agent: Fetching live weather forecast for Kerala (Munnar).",
+                "Weather Agent: Live weather API unavailable/timed out, using climate defaults.",
+                "Parallel Agent Orchestrator: All regional & constraint agents completed execution.",
+                "Budget Agent: Calculating final estimated cost breakdown.",
+                "Budget Agent: Estimated total cost at \u20b939400 (\u20b99850.0 per person).",
+                "Itinerary Agent: Structuring date-accurate, non-repetitive day-by-day itinerary.",
+                "Itinerary Agent: Generated 4 unique, non-repetitive daily schedules for Kerala (Munnar) from 2026-11-01 to 2026-11-04.",
+                "Validation Agent: Performing safety and budget verification audits.",
+                "Validation Agent: Budget cushion note: Estimated \u20b939400 vs limit \u20b925000.0.",
+                "Validation Agent: AUDIT PASSED. Core itinerary conforms to safety and timing requirements."
+            ],
+            "validation_logs": [],
+            "is_valid": true,
+            "retry_count": 0,
+            "error_message": null,
+            "suggested_adjustments": null,
+            "user_id": "6a997b60942162a029850e8e",
+            "created_at": "2026-10-01T08:39:14.354071",
+            "status": "saved",
+            "_id": "6abe1c32377b6b5182dd0d9c",
+            "id": "6abe1c32377b6b5182dd0d9c",
+            "svg_map": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 140\" width=\"100%\" height=\"140\">\n      <defs>\n        <linearGradient id=\"routeGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n          <stop offset=\"0%\" stop-color=\"#d9261c\" />\n          <stop offset=\"100%\" stop-color=\"#ef4444\" />\n        </linearGradient>\n      </defs>\n      <rect width=\"100%\" height=\"100%\" rx=\"16\" fill=\"#fee2e2\" stroke=\"#d9261c\" stroke-width=\"2\"/>\n      <path d=\"M 80 70 Q 400 15 720 70\" fill=\"none\" stroke=\"url(#routeGrad)\" stroke-width=\"4\" stroke-dasharray=\"6 4\"/>\n      <circle cx=\"80\" cy=\"70\" r=\"10\" fill=\"#d9261c\"/>\n      <circle cx=\"720\" cy=\"70\" r=\"10\" fill=\"#d9261c\"/>\n      <text x=\"80\" y=\"105\" font-family=\"sans-serif\" font-weight=\"900\" font-size=\"13\" fill=\"#000\" text-anchor=\"middle\">vijayawada</text>\n      <text x=\"720\" y=\"105\" font-family=\"sans-serif\" font-weight=\"900\" font-size=\"13\" fill=\"#000\" text-anchor=\"middle\">Kerala (Munnar)</text>\n      <text x=\"400\" y=\"40\" font-family=\"sans-serif\" font-weight=\"900\" font-size=\"12\" fill=\"#d9261c\" text-anchor=\"middle\">\ud83d\udccd 4-Day Visual Route Map (svgAgent)</text>\n    </svg>"
+        }
+    ]
+}

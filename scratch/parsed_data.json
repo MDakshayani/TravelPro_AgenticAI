@@ -1,0 +1,1180 @@
+[
+  {
+    "id": "andhra-pradesh",
+    "name": "Andhra Pradesh",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1627894483216-2138af692e32?q=80&w=1200",
+    "places": [
+      {
+        "name": "Visakhapatnam",
+        "category": "Beach & Coastal",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?q=80&w=600"
+      },
+      {
+        "name": "Araku Valley",
+        "category": "Hill Station",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Tirupati",
+        "category": "Spiritual",
+        "image": "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?q=80&w=600"
+      },
+      {
+        "name": "Vijayawada",
+        "category": "Heritage & Culture",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Amaravati",
+        "category": "Heritage & Buddhist",
+        "image": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?q=80&w=600"
+      },
+      {
+        "name": "Srisailam",
+        "category": "Spiritual & Nature",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      },
+      {
+        "name": "Rajahmundry",
+        "category": "Cultural & Riverfront",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "arunachal-pradesh",
+    "name": "Arunachal Pradesh",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?q=80&w=1200",
+    "places": [
+      {
+        "name": "Tawang",
+        "category": "Buddhist & Mountains",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=600"
+      },
+      {
+        "name": "Ziro",
+        "category": "Valleys & Music",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Mechuka",
+        "category": "Offbeat Adventure",
+        "image": "https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?q=80&w=600"
+      },
+      {
+        "name": "Dirang",
+        "category": "Valley & Hot Springs",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Bomdila",
+        "category": "Hill Station",
+        "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?q=80&w=600"
+      },
+      {
+        "name": "Itanagar",
+        "category": "Capital & Heritage",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "assam",
+    "name": "Assam",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?q=80&w=1200",
+    "places": [
+      {
+        "name": "Kaziranga",
+        "category": "Wildlife Safari",
+        "image": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?q=80&w=600"
+      },
+      {
+        "name": "Guwahati",
+        "category": "Spiritual & City",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      },
+      {
+        "name": "Majuli",
+        "category": "River Island & Culture",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Sivasagar",
+        "category": "Historical Heritage",
+        "image": "https://images.unsplash.com/photo-1477587458883-47145ed94245?q=80&w=600"
+      },
+      {
+        "name": "Tezpur",
+        "category": "Mythology & Nature",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "bihar",
+    "name": "Bihar",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?q=80&w=1200",
+    "places": [
+      {
+        "name": "Bodh Gaya",
+        "category": "Spiritual & World Heritage",
+        "image": "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?q=80&w=600"
+      },
+      {
+        "name": "Nalanda",
+        "category": "Ancient University",
+        "image": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?q=80&w=600"
+      },
+      {
+        "name": "Rajgir",
+        "category": "Heritage & Springs",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Patna",
+        "category": "Capital & Heritage",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      },
+      {
+        "name": "Vaishali",
+        "category": "Buddhist & Jain Pilgrimage",
+        "image": "https://images.unsplash.com/photo-1477587458883-47145ed94245?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "chhattisgarh",
+    "name": "Chhattisgarh",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?q=80&w=1200",
+    "places": [
+      {
+        "name": "Chitrakote",
+        "category": "Waterfall",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Tirathgarh",
+        "category": "Waterfall & Nature",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Jagdalpur",
+        "category": "Tribal Culture & Palace",
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846e41?q=80&w=600"
+      },
+      {
+        "name": "Kanger Valley",
+        "category": "National Park & Caves",
+        "image": "https://images.unsplash.com/photo-1549366021-9f761d450615?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "goa",
+    "name": "Goa",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?q=80&w=1200",
+    "places": [
+      {
+        "name": "Panaji",
+        "category": "Capital & Latin Quarter",
+        "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?q=80&w=600"
+      },
+      {
+        "name": "Old Goa",
+        "category": "World Heritage Churches",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Baga",
+        "category": "Beach & Nightlife",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Calangute",
+        "category": "Popular Beach",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Palolem",
+        "category": "South Goa Beach",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?q=80&w=600"
+      },
+      {
+        "name": "Dudhsagar",
+        "category": "Waterfall Trek",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "gujarat",
+    "name": "Gujarat",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?q=80&w=1200",
+    "places": [
+      {
+        "name": "Kutch",
+        "category": "White Salt Desert",
+        "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?q=80&w=600"
+      },
+      {
+        "name": "Dwarka",
+        "category": "Spiritual Char Dham",
+        "image": "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?q=80&w=600"
+      },
+      {
+        "name": "Somnath",
+        "category": "Spiritual Jyotirlinga",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      },
+      {
+        "name": "Gir",
+        "category": "Wild Lion Safari",
+        "image": "https://images.unsplash.com/photo-1549366021-9f761d450615?q=80&w=600"
+      },
+      {
+        "name": "Ahmedabad",
+        "category": "Heritage City & Sabarmati",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Statue of Unity",
+        "category": "Modern Monument & Nature",
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846e41?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "haryana",
+    "name": "Haryana",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1587474260584-136574528ed5?q=80&w=1200",
+    "places": [
+      {
+        "name": "Gurugram",
+        "category": "Modern Metropolis & Entertainment",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Kurukshetra",
+        "category": "Spiritual & Epic Heritage",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      },
+      {
+        "name": "Panipat",
+        "category": "Historic Battlefields",
+        "image": "https://images.unsplash.com/photo-1477587458883-47145ed94245?q=80&w=600"
+      },
+      {
+        "name": "Sultanpur",
+        "category": "Bird Sanctuary & Lake",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "himachal-pradesh",
+    "name": "Himachal Pradesh",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?q=80&w=1200",
+    "places": [
+      {
+        "name": "Manali",
+        "category": "Hill Station & Snow",
+        "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?q=80&w=600"
+      },
+      {
+        "name": "Shimla",
+        "category": "Colonial Capital",
+        "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?q=80&w=600"
+      },
+      {
+        "name": "Spiti",
+        "category": "High Altitude Cold Desert",
+        "image": "https://images.unsplash.com/photo-1593181629936-11c609b8db9b?q=80&w=600"
+      },
+      {
+        "name": "Dharamshala",
+        "category": "Tibetan Heritage & Cricket",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=600"
+      },
+      {
+        "name": "Dalhousie",
+        "category": "Colonial Quiet Hill Station",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Kasol",
+        "category": "Backpacker & River Valley",
+        "image": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "jharkhand",
+    "name": "Jharkhand",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?q=80&w=1200",
+    "places": [
+      {
+        "name": "Ranchi",
+        "category": "City of Waterfalls",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Deoghar",
+        "category": "Spiritual Jyotirlinga",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      },
+      {
+        "name": "Netarhat",
+        "category": "Queen of Chotanagpur",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Jamshedpur",
+        "category": "Steel City & Parks",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "karnataka",
+    "name": "Karnataka",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?q=80&w=1200",
+    "places": [
+      {
+        "name": "Hampi",
+        "category": "UNESCO World Heritage",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Mysuru",
+        "category": "Royal Heritage",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Coorg",
+        "category": "Coffee Hills & Mist",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Gokarna",
+        "category": "Beach Trek & Spiritual",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Chikmagalur",
+        "category": "Coffee Cradle & Peaks",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Bengaluru",
+        "category": "Silicon Valley & Gardens",
+        "image": "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?q=80&w=600"
+      },
+      {
+        "name": "Udupi",
+        "category": "Coastal & Temples",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "kerala",
+    "name": "Kerala",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?q=80&w=1200",
+    "places": [
+      {
+        "name": "Munnar",
+        "category": "Tea Gardens & Hill Station",
+        "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?q=80&w=600"
+      },
+      {
+        "name": "Alleppey",
+        "category": "Backwaters & Houseboat",
+        "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?q=80&w=600"
+      },
+      {
+        "name": "Kochi",
+        "category": "Colonial Port & Art",
+        "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?q=80&w=600"
+      },
+      {
+        "name": "Wayanad",
+        "category": "Mist Hills & Caves",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Varkala",
+        "category": "Cliff Beach & Sunset",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Thekkady",
+        "category": "Wildlife & Spice Gardens",
+        "image": "https://images.unsplash.com/photo-1549366021-9f761d450615?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "madhya-pradesh",
+    "name": "Madhya Pradesh",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1622396481328-9b1b78cdd9fd?q=80&w=1200",
+    "places": [
+      {
+        "name": "Khajuraho",
+        "category": "UNESCO Erotic Temples",
+        "image": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?q=80&w=600"
+      },
+      {
+        "name": "Ujjain",
+        "category": "Spiritual Jyotirlinga & Mahakal",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      },
+      {
+        "name": "Sanchi",
+        "category": "UNESCO Buddhist Stupa",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Bhopal",
+        "category": "City of Lakes & Bhimbetka",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Indore",
+        "category": "Cleanest City & Street Food",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Pachmarhi",
+        "category": "Queen of Satpura Hill Station",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Jabalpur",
+        "category": "Marble Rocks & Waterfalls",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "maharashtra",
+    "name": "Maharashtra",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=1200",
+    "places": [
+      {
+        "name": "Mumbai",
+        "category": "Financial Metropolis & Gateway",
+        "image": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=600"
+      },
+      {
+        "name": "Pune",
+        "category": "Cultural & Fort Capital",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Lonavala",
+        "category": "Monsoon Hill Station",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Mahabaleshwar",
+        "category": "Strawberry Capital & Viewpoints",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Ajanta",
+        "category": "UNESCO Rock-Cut Painting Caves",
+        "image": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?q=80&w=600"
+      },
+      {
+        "name": "Ellora",
+        "category": "UNESCO Monolithic Temple",
+        "image": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?q=80&w=600"
+      },
+      {
+        "name": "Nashik",
+        "category": "Wine Capital & Trimbakeshwar",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "manipur",
+    "name": "Manipur",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1615836245337-f5b9b2303f10?q=80&w=1200",
+    "places": [
+      {
+        "name": "Imphal",
+        "category": "Capital & Heritage Market",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Loktak Lake",
+        "category": "Freshwater Lake & Floating Islands",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Keibul Lamjao",
+        "category": "Floating National Park",
+        "image": "https://images.unsplash.com/photo-1549366021-9f761d450615?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "meghalaya",
+    "name": "Meghalaya",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1200",
+    "places": [
+      {
+        "name": "Shillong",
+        "category": "Scotland of the East",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Cherrapunji",
+        "category": "Wettest Place & Waterfalls",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Dawki",
+        "category": "Crystal Glass River",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Mawlynnong",
+        "category": "Cleanest Village in Asia",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "mizoram",
+    "name": "Mizoram",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1519046904884-53103b34b206?q=80&w=1200",
+    "places": [
+      {
+        "name": "Aizawl",
+        "category": "Hilltop Capital",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=600"
+      },
+      {
+        "name": "Reiek",
+        "category": "Mountain Peak & Heritage",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Champhai",
+        "category": "Rice Bowl & Indo-Myanmar Border",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Vantawng Falls",
+        "category": "Highest Waterfall in Mizoram",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "nagaland",
+    "name": "Nagaland",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1571536802807-30451e3955d8?q=80&w=1200",
+    "places": [
+      {
+        "name": "Kohima",
+        "category": "Capital & WWII Heritage",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=600"
+      },
+      {
+        "name": "Dzukou Valley",
+        "category": "Valley of Flowers & Trekking",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Mokokchung",
+        "category": "Ao Naga Cultural Capital",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Mon",
+        "category": "Konyak Tattooed Warriors",
+        "image": "https://images.unsplash.com/photo-1477587458883-47145ed94245?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "odisha",
+    "name": "Odisha",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1599661046289-e31897846e41?q=80&w=1200",
+    "places": [
+      {
+        "name": "Puri",
+        "category": "Spiritual Char Dham & Beach",
+        "image": "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?q=80&w=600"
+      },
+      {
+        "name": "Konark",
+        "category": "UNESCO Sun Temple Chariot",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Bhubaneswar",
+        "category": "Temple City & Caves",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      },
+      {
+        "name": "Chilika",
+        "category": "Irrawaddy Dolphins & Birds",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Cuttack",
+        "category": "Silver City & Barabati",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "punjab",
+    "name": "Punjab",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?q=80&w=1200",
+    "places": [
+      {
+        "name": "Amritsar",
+        "category": "Sacred Golden Temple & Heritage",
+        "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?q=80&w=600"
+      },
+      {
+        "name": "Golden Temple",
+        "category": "Holy Shrine",
+        "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?q=80&w=600"
+      },
+      {
+        "name": "Wagah Border",
+        "category": "National Pride Ceremony",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Patiala",
+        "category": "Royal Palaces & Paranda",
+        "image": "https://images.unsplash.com/photo-1477587458883-47145ed94245?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "rajasthan",
+    "name": "Rajasthan",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1477587458883-47145ed94245?q=80&w=1200",
+    "places": [
+      {
+        "name": "Jaipur",
+        "category": "Pink City & Royal Forts",
+        "image": "https://images.unsplash.com/photo-1477587458883-47145ed94245?q=80&w=600"
+      },
+      {
+        "name": "Jaisalmer",
+        "category": "Golden City & Thar Desert",
+        "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?q=80&w=600"
+      },
+      {
+        "name": "Jodhpur",
+        "category": "Blue City & Mehrangarh",
+        "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?q=80&w=600"
+      },
+      {
+        "name": "Udaipur",
+        "category": "City of Lakes & Romance",
+        "image": "https://images.unsplash.com/photo-1615836245337-f5b9b2303f10?q=80&w=600"
+      },
+      {
+        "name": "Pushkar",
+        "category": "Sacred Lake & Brahma Temple",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      },
+      {
+        "name": "Bikaner",
+        "category": "Desert Fort & Karni Mata",
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846e41?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "sikkim",
+    "name": "Sikkim",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1200",
+    "places": [
+      {
+        "name": "Gangtok",
+        "category": "Capital & Cable Car",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=600"
+      },
+      {
+        "name": "Pelling",
+        "category": "Kanchenjunga Views & Skywalk",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=600"
+      },
+      {
+        "name": "Lachung",
+        "category": "North Sikkim Base",
+        "image": "https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?q=80&w=600"
+      },
+      {
+        "name": "Yumthang",
+        "category": "Valley of Flowers & Hot Springs",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Ravangla",
+        "category": "Buddha Park & Tea Garden",
+        "image": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "tamil-nadu",
+    "name": "Tamil Nadu",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=1200",
+    "places": [
+      {
+        "name": "Ooty",
+        "category": "Queen of Hill Stations & Toy Train",
+        "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?q=80&w=600"
+      },
+      {
+        "name": "Kodaikanal",
+        "category": "Princess of Hill Stations",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Chennai",
+        "category": "Capital & Marina Beach",
+        "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?q=80&w=600"
+      },
+      {
+        "name": "Madurai",
+        "category": "Ancient Temple City",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Rameswaram",
+        "category": "Spiritual Char Dham & Pamban",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      },
+      {
+        "name": "Kanyakumari",
+        "category": "Tricontinental Ocean Sunset",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Thanjavur",
+        "category": "UNESCO Great Living Chola Temple",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "telangana",
+    "name": "Telangana",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1605007493699-af65834f8a00?q=80&w=1200",
+    "places": [
+      {
+        "name": "Hyderabad",
+        "category": "Nizami Capital & Biryani",
+        "image": "https://images.unsplash.com/photo-1605007493699-af65834f8a00?q=80&w=600"
+      },
+      {
+        "name": "Warangal",
+        "category": "UNESCO Kakatiya Heritage",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Bhongir",
+        "category": "Monolithic Rock Fort",
+        "image": "https://images.unsplash.com/photo-1477587458883-47145ed94245?q=80&w=600"
+      },
+      {
+        "name": "Vemulawada",
+        "category": "Spiritual Raja Rajeshwara",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "tripura",
+    "name": "Tripura",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1615836245337-f5b9b2303f10?q=80&w=1200",
+    "places": [
+      {
+        "name": "Agartala",
+        "category": "Capital & Ujjayanta Palace",
+        "image": "https://images.unsplash.com/photo-1615836245337-f5b9b2303f10?q=80&w=600"
+      },
+      {
+        "name": "Unakoti",
+        "category": "Ancient Rock Relief Sculptures",
+        "image": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?q=80&w=600"
+      },
+      {
+        "name": "Neermahal",
+        "category": "Water Palace in Lake",
+        "image": "https://images.unsplash.com/photo-1615836245337-f5b9b2303f10?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "uttar-pradesh",
+    "name": "Uttar Pradesh",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=1200",
+    "places": [
+      {
+        "name": "Agra",
+        "category": "Wonder of World & Taj Mahal",
+        "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=600"
+      },
+      {
+        "name": "Varanasi",
+        "category": "World\u2019s Oldest Living Spiritual City",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      },
+      {
+        "name": "Ayodhya",
+        "category": "Sacred Ram Janmabhoomi",
+        "image": "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?q=80&w=600"
+      },
+      {
+        "name": "Mathura",
+        "category": "Krishna Janmabhoomi",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      },
+      {
+        "name": "Vrindavan",
+        "category": "Land of Radha-Krishna Bhakti",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      },
+      {
+        "name": "Lucknow",
+        "category": "City of Nawabs & Awadhi Cuisine",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Prayagraj",
+        "category": "Triveni Sangam & Kumbh Mela",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "uttarakhand",
+    "name": "Uttarakhand",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?q=80&w=1200",
+    "places": [
+      {
+        "name": "Rishikesh",
+        "category": "Yoga Capital & White Water Rafting",
+        "image": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?q=80&w=600"
+      },
+      {
+        "name": "Mussoorie",
+        "category": "Queen of Hills",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Nainital",
+        "category": "City of Lakes",
+        "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?q=80&w=600"
+      },
+      {
+        "name": "Auli",
+        "category": "Skiing Resort & Cable Car",
+        "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=600"
+      },
+      {
+        "name": "Kedarnath",
+        "category": "High Altitude Sacred Shrine",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      },
+      {
+        "name": "Badrinath",
+        "category": "Sacred Char Dham",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      },
+      {
+        "name": "Haridwar",
+        "category": "Gateway to Gods & Har Ki Pauri",
+        "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "west-bengal",
+    "name": "West Bengal",
+    "type": "State",
+    "coverImage": "https://images.unsplash.com/photo-1558431382-27e303142255?q=80&w=1200",
+    "places": [
+      {
+        "name": "Kolkata",
+        "category": "City of Joy & Heritage",
+        "image": "https://images.unsplash.com/photo-1558431382-27e303142255?q=80&w=600"
+      },
+      {
+        "name": "Darjeeling",
+        "category": "Queen of Hills & Champagne Tea",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=600"
+      },
+      {
+        "name": "Kalimpong",
+        "category": "Orchid Valleys & Monasteries",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Sundarbans",
+        "category": "UNESCO Mangrove & Royal Bengal Tiger",
+        "image": "https://images.unsplash.com/photo-1549366021-9f761d450615?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "andaman-nicobar",
+    "name": "Andaman & Nicobar Islands",
+    "type": "Union Territory",
+    "coverImage": "https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?q=80&w=1200",
+    "places": [
+      {
+        "name": "Havelock",
+        "category": "Island & Scuba Paradise",
+        "image": "https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?q=80&w=600"
+      },
+      {
+        "name": "Neil Island",
+        "category": "Quiet Tropical Island",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Radhanagar",
+        "category": "Asia\u2019s Best Beach",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Baratang",
+        "category": "Limestone Caves & Mangrove Creek",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "chandigarh",
+    "name": "Chandigarh",
+    "type": "Union Territory",
+    "coverImage": "https://images.unsplash.com/photo-1596484552834-6a58f850e0a1?q=80&w=1200",
+    "places": [
+      {
+        "name": "Rock Garden",
+        "category": "Recycled Sculptures Park",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Sukhna Lake",
+        "category": "Boating & Promenade",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Capitol Complex",
+        "category": "UNESCO Architectural Marvel",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "dadra-nagar-haveli-daman-diu",
+    "name": "Dadra & Nagar Haveli and Daman & Diu",
+    "type": "Union Territory",
+    "coverImage": "https://images.unsplash.com/photo-1593181629936-11c609b8db9b?q=80&w=1200",
+    "places": [
+      {
+        "name": "Daman",
+        "category": "Forts & Beaches",
+        "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?q=80&w=600"
+      },
+      {
+        "name": "Diu",
+        "category": "Island Fort & Cliffs",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Silvassa",
+        "category": "Tribal Greenery & Deer Park",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "delhi",
+    "name": "Delhi",
+    "type": "Union Territory",
+    "coverImage": "https://images.unsplash.com/photo-1587474260584-136574528ed5?q=80&w=1200",
+    "places": [
+      {
+        "name": "Red Fort",
+        "category": "Mughal Citadel World Heritage",
+        "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?q=80&w=600"
+      },
+      {
+        "name": "India Gate",
+        "category": "National Monument & Lawns",
+        "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?q=80&w=600"
+      },
+      {
+        "name": "Qutub Minar",
+        "category": "UNESCO Tallest Brick Minaret",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      },
+      {
+        "name": "Humayun\u2019s Tomb",
+        "category": "Mughal Garden Tomb Prototype",
+        "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=600"
+      },
+      {
+        "name": "Old Delhi",
+        "category": "Street Food & Chandni Chowk",
+        "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "jammu-kashmir",
+    "name": "Jammu & Kashmir",
+    "type": "Union Territory",
+    "coverImage": "https://images.unsplash.com/photo-1566837945700-30057527ade0?q=80&w=1200",
+    "places": [
+      {
+        "name": "Srinagar",
+        "category": "Dal Lake & Mughal Gardens",
+        "image": "https://images.unsplash.com/photo-1566837945700-30057527ade0?q=80&w=600"
+      },
+      {
+        "name": "Gulmarg",
+        "category": "Snow Skiing & Gondola",
+        "image": "https://images.unsplash.com/photo-1566837945700-30057527ade0?q=80&w=600"
+      },
+      {
+        "name": "Pahalgam",
+        "category": "Valley of Shepherds & River Trek",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600"
+      },
+      {
+        "name": "Sonamarg",
+        "category": "Meadow of Gold & Glaciers",
+        "image": "https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "ladakh",
+    "name": "Ladakh",
+    "type": "Union Territory",
+    "coverImage": "https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?q=80&w=1200",
+    "places": [
+      {
+        "name": "Leh",
+        "category": "Capital & Monasteries",
+        "image": "https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?q=80&w=600"
+      },
+      {
+        "name": "Pangong",
+        "category": "High Altitude Color-Changing Lake",
+        "image": "https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?q=80&w=600"
+      },
+      {
+        "name": "Nubra",
+        "category": "Cold Sand Dunes & Camels",
+        "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?q=80&w=600"
+      },
+      {
+        "name": "Tso Moriri",
+        "category": "Pristine High Altitude Lake",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "lakshadweep",
+    "name": "Lakshadweep",
+    "type": "Union Territory",
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200",
+    "places": [
+      {
+        "name": "Kavaratti",
+        "category": "Capital & Lagoon Waters",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Agatti",
+        "category": "Coral Island & Airstrip",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Bangaram",
+        "category": "Uninhabited Luxury Island",
+        "image": "https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?q=80&w=600"
+      },
+      {
+        "name": "Kalpeni",
+        "category": "Coral Debris Bank & Atoll",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      }
+    ]
+  },
+  {
+    "id": "puducherry",
+    "name": "Puducherry",
+    "type": "Union Territory",
+    "coverImage": "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?q=80&w=1200",
+    "places": [
+      {
+        "name": "White Town",
+        "category": "French Quarter & Pastel Streets",
+        "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?q=80&w=600"
+      },
+      {
+        "name": "Promenade",
+        "category": "Rock Beach Seafront Walk",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      },
+      {
+        "name": "Auroville",
+        "category": "Universal Township & Matrimandir",
+        "image": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?q=80&w=600"
+      },
+      {
+        "name": "Paradise Beach",
+        "category": "Island Beach & Ferry",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600"
+      }
+    ]
+  }
+]
