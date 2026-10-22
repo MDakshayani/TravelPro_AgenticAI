@@ -565,15 +565,15 @@ workflow = StateGraph(AgentState)
 workflow.add_node("orchestrator", orchestrator_node)
 workflow.add_node("parallel_services", parallel_services_node)
 workflow.add_node("budget_agent", budget_agent_node)
-workflow.add_node("itinerary", itinerary_agent_node)
+workflow.add_node("itinerary_agent", itinerary_agent_node)
 workflow.add_node("validation", validation_agent_node)
 
 # Edges
 workflow.set_entry_point("orchestrator")
 workflow.add_edge("orchestrator", "parallel_services")
 workflow.add_edge("parallel_services", "budget_agent")
-workflow.add_edge("budget_agent", "itinerary")
-workflow.add_edge("itinerary", "validation")
+workflow.add_edge("budget_agent", "itinerary_agent")
+workflow.add_edge("itinerary_agent", "validation")
 
 # Conditional Router (direct fast exit to END)
 workflow.add_conditional_edges(
