@@ -34,7 +34,7 @@ export const LoginPage: React.FC = () => {
       }
     } catch (err: any) {
       const errMsg = !err.response
-        ? 'Cannot connect to backend server. Make sure FastAPI server is running on http://localhost:8000.'
+        ? 'Cannot connect to the server. Please try again later or contact support if the issue persists.'
         : err.response?.data?.detail || 'Invalid email or password.';
       setError(errMsg);
       showToast(errMsg, 'error');
@@ -215,7 +215,7 @@ export const RegisterPage: React.FC = () => {
       }
     } catch (err: any) {
       const errMsg = !err.response
-        ? 'Cannot connect to backend server. Make sure FastAPI server is running on http://localhost:8000.'
+        ? 'Cannot connect to the server. Please try again later or contact support if the issue persists.'
         : err.response?.data?.detail || 'Failed to register account.';
       setError(errMsg);
       showToast(errMsg, 'error');

@@ -24,22 +24,21 @@ app = FastAPI(
 )
 
 # CORS configuration
-# In production, set FRONTEND_URL env var to your Vercel deployment URL
+# In production, set FRONTEND_URL env var on Render to your Vercel deployment URL.
+# Multiple URLs can be separated by commas, e.g.:
+#   FRONTEND_URL=https://travel-pro.vercel.app,https://travel-pro-git-main-user.vercel.app
 origins = [
-    "http://localhost:5173",  # default Vite dev server
+    "http://localhost:5173",   # default Vite dev server
     "http://127.0.0.1:5173",
     "http://localhost:3000",
 ]
 
-# Add production frontend URL if set
-frontend_url = os.getenv("FRONTEND_URL", "")
-if frontend_url:
-    origins.append(frontend_url)
-    # Also add without trailing slash variant
-    if frontend_url.endswith("/"):
-        origins.append(frontend_url.rstrip("/"))
-    else:
-        origins.append(frontend_url + "/")
+# Add every production frontend URL listed in the FRONTEND_URL env var
+frontend_url_env = os.getenv("FRONTEND_URL", "")
+for url in frontend_url_env.split(","):
+    url = url.strip().rstrip("/")
+    if url and url not in origins:
+        origins.append(url)
 
 app.add_middleware(
     CORSMiddleware,
