@@ -23,5 +23,5 @@ Deployment
 Deployed using Vercel.
 
 Author
-Mandadhi Janani
+Mukku Dakshayani
 PVPSIT | Computer Science and Engineering (AI/ML)
